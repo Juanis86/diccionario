@@ -1,0 +1,1192 @@
+
+ 
+Introducción
+Ambientes hiperhalófilos 
+La vida existe a lo largo de todo el rango de salinidad encontrado en los ambientes naturales, desde ambientes de agua dulce, hasta lugares saturados en NaCl como el Mar Muerto. La diversidad de hábitats hipersalinos se refleja en la gran variedad de comunidades de microorganismos adaptados a vivir en tales condiciones (Oren 2002).
+Se considera ambientes hipersalinos a aquellos que poseen una concentración de sales por encima de la del agua de mar (3,3% total de sales disueltas) (Kerkar 2004). Pueden ser naturales o generados por la actividad del hombre y se encuentran distribuidos ampliamente en todo el planeta. En estos ambientes están representados los tres dominios de la vida (Archaea, Bacteria y Eukarya) (Boetios et al 2009, McGenity y Oren 2012). Basados en su origen, pueden ser clasificados en talasohalinos o atalasohalinos (Kerkar 2004). Los talasohalinos se originan por evaporación en ambientes marinos. Su composición salina es similar a la del agua de mar, Na y Cl son sus iones predominantes, y su pH es cercano a la neutralidad, levemente alcalino. A medida que se produce la evaporación, se suceden cambios en la composición iónica por la precipitación de ciertos minerales, debido a la reducción de su solubilidad. Este tipo de ambientes saturados en NaCl generalmente muestran una coloración rojiza, debido a la pigmentación de los microorganismos presentes.
+Los conocidos como atalasohalinos presentan una composición iónica diferente a la del agua de mar, y su génesis no está asociada a estos cuerpos de agua. Presentan también una gran diversidad de microorganismos (Oren 2002). Un ejemplo es el Mar Muerto, un lago en el cual la concentración de cationes divalentes (Mg+2 y Ca+2) es mayor a la de los cationes monovalentes (Na+ y K+), y cuyo pH es relativamente bajo (alrededor de 6). Este ambiente, a pesar de su aparente hostilidad, periódicamente soporta blooms de microorganismos (Oren 1988). Los ambientes hipersalinos más estudiados hasta el momento son  el Mar Muerto, en Israel, y Great Salt Lakes, en EEUU (Oren 2015). En Argentina, este tipo de ambientes representa el 3,32% del territorio (92,600 km2) (Cantero 2016) y hasta el momento ha sido sólo parcialmente estudiado (Di Meglio et al 2016, Viver et al 2018, Cantero et al 2016, Rosa 2010). 
+La vida en este tipo de ambientes es energéticamente costosa. La presión osmótica a la que se enfrentan los microorganismos hiperhalófilos los obliga a desarrollar diferentes estrategias adaptativas para contrarrestar el desafío osmótico que plantea el medio (Oren 2011) adaptando su metabolismo y maquinaria intracelular (Denis 1997, Eisenberg 1992, Ebel 1999).  
+
+
+Clasificación de los microorganismos halófilos
+Los microorganismos halófilos pueden crecer en un amplio rango de salinidad. Algunos, como la bacteria Halomonas elongata, pueden vivir entre 0,3M y 0,6M NaCl, mientras que otros necesitan una condición cercana a la saturación, de 2,5M o 3,5M NaCl, siendo incapaces de crecer en una concentración menor (Oren 1999). Este tipo de microorganismos se encuentra representado en los tres dominios de la vida (Fig 1) (Oren 2002a, Oren 2006, Oren 2002b). En cuanto a su nomenclatura, la definición más extendida fue formulada hace 40 años por Donn Kushner (Kushner 1978), que distingue entre halófilos extremos (2,5- 5,2M NaCl), “borderline halophiles” (crecen mejor entre 1,5 y 4M NaCl), halófilos moderados (0,5-2,5M NaCl) y halotolerantes en los que la concentración de sal no es un requerimiento, pero crecen mejor en esta condición (considerados halotolerantes extremos si crecen por encima de 2,5M NaCl)
+Figura 1: El árbol de la vida, basado en la clasificación según la secuencia de la subunidad menor del ARNr 16S, y la distribución de microorganismos halófilos en él. Los recuadros azules representan aquellos grupos que poseen al menos un representante halófilo (por ej., bacteroidetes, en el cual Salinibacter ruber es el único microorganismo de este tipo). Otros, como el caso de Halobacteriaceae, están constituidos completamente por microorganismos halófilos.
+
+En muchos casos, representantes tanto halófilos como no halófilos están juntos en el árbol de clasificación y muchos géneros, familias y órdenes tienen representantes que difieren en cuanto a su tolerancia y requerimiento de NaCl. Dentro de las arqueas se encuentra el orden Halobacteriales, que habita los ambientes con mayor concentración salina y  que está formado por tres familias, Halobacteriaceae, Haloferacaceae y Natrialbaceae. También dentro de la clase Methanothermea (methanococci), orden Methanosarcinales, se encuentran microorganismos halófilos o halotolerantes. Todos ellos pertenecen al phylum Euryarchaeota. No se han encontrado representantes halófilos aún en Crenarchaeota.
+En cuanto a las bacterias, se han encontrado halófilos dentro de los phyla Cyanobacteria, Proteobacteria, Firmicutes, Actinobacteria, Spirochaetes y Bacteroidetes.  
+En eucariotas, el grupo de microorganismos capaces de vivir en altas concentraciones de sal, así como su distribución y adaptaciones está poco estudiado, salvo algunas excepciones (Oren 2008). El alga del género Dunaliella es un caso que ha sido estudiado en profundidad, en cuanto a su fisiología y adaptaciones a condiciones de alta salinidad, así como sus aplicaciones biotecnológicas (Oren 2005). Entre los hongos, hay ejemplos de organismos halófilos tanto por su hábitat, como por el requerimiento de NaCl para su crecimiento. Ejemplos de estos casos son Trimmatostroma salinum y Hortaea werneckii. También se han encontrado representantes halófilos entre los protozoos, dentro de los nanoflagelados, en lagos salinos de Corea e incluso en salinas de nuestro país (Elazari-Volcani 1943, Elazari-Volcani 1944, Hauer 2005, Cho 2005, Di Meglio et al., 2016).
+
+Fisiología: Características distintivas, biomoléculas y osmoregulación
+Osmoregulación:
+Los microorganismos hiperhalófilos presentan dos tipos de estrategias para hacerle frente a la presión osmótica del ambiente. La primera, utilizada por las halobacterias (Arqueas), como también por un grupo de bacterias halófilas anaeróbicas, consiste en la acumulación de una gran cantidad de iones en su citoplasma. En estos casos, el K+ en lugar del Na+ es el catión intracelular dominante, y el Cl- es el anión presente en mayor cantidad. En las halobacterias, el gradiente de concentración de Na+ a través de la membrana es creado a través de la acción del antiporter Na+/H+. La energía requerida para bombear Na+ hacia el exterior de la célula es obtenida a partir del gradiente de H+ generado por el transporte de electrones en la respiración o, en algunas especies, por la bomba de protones “bacteriorodopsina”. Los iones K+ probablemente entren a la célula pasivamente como resultado del potencial de membrana. En cuanto al Cl-, han sido identificadas dos bombas en la arquea Halobacterium sp.: la halorodopsina, dependiente de la luz y otra que funciona probablemente mediante un simporte con Na+ (Oren 1999, Ventosa 1998, Dennis 1997, Eisenberg 1992, Lanyi 1974)(Figura 2).
+La segunda estrategia consiste en la acumulación de solutos compatibles en el citoplasma. Entre estos, los más utilizados son prolina y glicina betaina. A diferencia de la primera, esta es una estrategia que conlleva un gasto energético importante, pero no requiere adaptaciones especiales en la maquinaria intracelular (Oren 1999, Oren 2013). 
+
+
+ Figura 2: Intercambio de iones con el medio, en una Arquea Halófila (familia Halobacteriaceae). 1- Bacteriorodopsina, 2- Halorodopsina, 3- Simporte Na+/Cl-, 4- Transporte K+, 5- Antiporte Na+/H+ (Oren 1999)
+Biomoléculas
+Como se dijo anteriormente, se han identificado tres grupos de microorganismos halófilos: arqueas halófilas, arqueas metanogénicas y bacterias halófilas. La mayoría de las enzimas halófilas mejor estudiadas provienen del primer grupo, microorganismos que acumulan gran cantidad de potasio en su citoplasma como método de regulación osmótica (Christian y Waltho 1962, Guinzburg 1970).
+Las proteínas de los microorganismos halófilos presentan una mayor cantidad de aminoácidos ácidos, respecto a su contraparte no halófila (Lanyi 1974, Nercessian and Conde 2000). Un análisis estadístico de 26 proteínas halófilas confirmó esta composición, mostrando una reducción en el contenido de Lys, un aumento significativo de residuos hidrofóbicos (Gly, Ala, Val) y una disminución de residuos alifáticos (Madern 1995). 
+Una concentración elevada de sales afecta la estabilidad de las proteínas. En general, condiciones salinas que favorecen la estabilidad, afectan la solubilidad, y viceversa (Von Hippel y Schleich 1969). Así, las enzimas halófilas poseen características que favorecen tanto la solubilidad como la estabilidad en concentraciones altas de KCl intracelular (Madern 2000). 
+En cuanto a los lípidos, las arqueas halófilas contienen un único set de éteres de glicerol que consisten en cinco o seis cadenas isoprenoides unidas. Esta combinación es estable en ambientes salinos y mantiene la fluidez de la membrana para permitir el pasaje de las moléculas necesarias para los procesos celulares (Litchfield, 1998). 
+Respecto a los ácidos nucleicos, el contenido de guanina/citosina en estos microorganismos ronda el 59 a 71% (Litchfield, 1998, Moore 1969). Esta alta proporción de G/C permite una mayor estabilidad de los ácidos nucléicos frente a las altas concentraciones de cationes intracelulares, gracias a la mayor cantidad de uniones puente de hidrógeno entre estas bases.
+Condiciones de crecimiento
+En cuanto a las condiciones de crecimiento, la distribución de pH óptimo en los microorganismos halófilos extremos muestra 2 tendencias; aquellos que crecen en un pH cercano a 7, y otros que lo hacen a pH alrededor de 9. Hasta el momento se han descripto unos 20 géneros? especies? que crecen a pH óptimo de 8,5 o más (Bowers 2011) y por lo tanto, son considerados haloalcalófilos. Todas combinan el pH alcalino óptimo con concentraciones salinas de 2M a 3,4M o incluso mayores (Bowers 2011), aunque se han encontrado especies capaces de crecer a pH de hasta 9,8 y concentraciones de NaCl superiores a 4M (Hu et al. 2008; Bowers et al. 2009a; Feng et al. 2005). 
+Respecto a la temperatura, poco más de la mitad de los microorganismos halófilos tienen una temperatura óptima de crecimiento entre los 38 y 40°C, aunque algunos se desarrollan entre 28 y 35°C. La otra mitad crece por encima de los 40 °C, con especies descriptas a temperaturas óptimas de entre 45°C y 48°C (Torreblanca 1986, Waino 2000, Tomlinson 1986, Zhilina 1987, Antunes 2008).
+
+Metabolismo en ambientes hiperhalófilos
+Como se dijo, la vida en ambientes hiperhalófilos es energéticamente costosa. El límite superior en cuanto a la concentración de sal en que pueden ocurrir procesos desasimilatorios está determinado en gran parte por constantes bioenergéticas. Los factores principales que determinan si un organismo puede vivir en ambientes con una cierta cantidad de sal, son la cantidad de energía obtenida en los procesos metabólicos y el mecanismo de regulación osmótica utilizado (Oren 2011). Respiración aeróbica, denitrificación, fotosíntesis oxigénica y anoxigénica, son ejemplos de procesos que se pueden llevar a cabo en las máximas concentraciones de sal conocidas. La oxidación autotrófica de amonio, reducción de sulfato con acetato como dador, metanogénesis con acetato como dador, son ejemplos de procesos que no han sido hallados en ambientes con alta salinidad (Oren 1999, Oren 2001).
+Se espera que en una elevada cantidad de sal, se puedan llevar a cabo los siguientes tipos de metabolismo;
+    1- Aquellos que usen luz como fuente de energía
+    2- Respiración aeróbica, denitrificación y otros procesos desasimilatorios altamente exergónicos (ΔG°’ negativo), acoplados con una gran producción de ATP
+    3- Procesos metabólicos llevados a cabo por microorganismos con acumulación de K+ como estrategia de osmoregulación (incluso aquellos con baja producción de ATP)
+En general, los procesos fotosintéticos no están limitados por energía y los procesos respiratorios con nitrato u oxígeno como aceptor tienen un ΔG°’ tan negativo, que son procesos cuya aparición no está restringida por la estrategia de regulación osmótica. La metanogénesis con H2 y CO2, la reducción de sulfato con acetato como aceptor y la oxidación de amonio o nitrito, son procesos que no rinden una cantidad de energía significativa. Si la cantidad de energía metabólica obtenida es escasa y el mecanismo de osmorregulación es costoso, estos procesos serían difíciles de llevar a cabo en esas condiciones (Oren 1999, Oren 2011).
+La oxidación quimioautotrófica de compuestos reducidos de azufre es mucho más favorable que la nitrificación. Los quimioautótrofos oxidadores de azufre pueden así crecer en ambientes con salinidad moderadamente alta. La reducción de sulfato existe hasta al menos 250g/L de NaCl. Aquellos microorganismos reductores de sulfato que crecen por encima de 150g/L de sal son oxidadores incompletos de lactato, etanol, así como autótrofos que crecen usando H+ como dador. Un resumen de los procesos descriptos a diferentes salinidades se puede ver en la Figura 3.
+
+
+              .      
+
+Importancia biotecnológica 
+
++
+
+
+Figura 3: Procesos descriptos en diferentes microorganismos halófilos, en diferentes rangos de salinidad (Oren 2011).
+Importancia biotecnológica:
+Se han descripto numerosas aplicaciones biotecnológicas para los microorganismos halófilos y sus enzimas. Varias de ellas han sido analizadas por sus potenciales aplicaciones, incluyendo proteasas, amilasas y nucleasas (Kamekura 1986). Enzimas haloresistentes o halotolerantes han sido halladas en diversos grupos de microorganismos del orden Halobacteriales. Muchos de los solutos compatibles encontrados en el citoplasma de los microorganismos halófilos son también de interés para la industria y pueden ser explotados para diferentes propósitos, como ectoína e hidroxiectoína (Oren 2002). Estos solutos tienen una fuerte acción estabilizante in vitro para enzimas lábiles, incrementando la vida media de las moléculas involucradas. Esta función es la base de la producción de ectoína de Halomonas elongata e hidroxiectoina de Marinococcus M52. La ectoína o los carotenoides del alga Dunaliella, son también utilizadas en la industria cosmética (Ma´or 2000).
+Por otro lado, productos que pueden ser obtenidos de microorganismos no-halófilos tienen mejor rendimiento en los microorganismos halófilos. Por ej, el β-caroteno en el alga Dunaliella está presente en mayor concentración que en microorganismos no halófilos, por lo que es común que se obtenga de esta fuente (Ben-amoz 1989).
+Haloferax mediterranei produce un co-polímero de hidroxibutirato e hidroxivalerato que puede ser usado como termoplástico con excelentes propiedades, similares al polipropileno. Una lisis en medio no salino de las células, provee una forma simple de obtener estos compuestos acumulados en el citoplasma (Oren 2002). Surfactantes. Estas, entre otras, son las posibles aplicaciones de un grupo de microorganismos que ha sido solo parcialmente explorado y en el que la mayor parte todavía está por descubrirse.  
+
+
+
+
+
+
+
+
+Capítulo 1
+Introducción
+Microorganismos electrogénicos:
+El hecho de que las bacterias puedan crecer en aguas de desecho, produciendo corriente aprovechable, ha atraído mucha atención desde su descubrimiento (Bond 2002, Kim 1999). Las celdas microbianas de combustible (MFCs por Microbial fuel cells) llevan a cabo este proceso, utilizando microorganismos como biocatalizadores. En estos dispositivos, las bacterias oxidan compuestos orgánicos (dadores de electrones), utilizando un aceptor de electrones extracelular sólido (un electrodo de grafito polarizado). Una MFC típica consiste en dos cámaras, una anódica y otra catódica, separadas por una membrana de intercambio de protones. En la cámara anódica, un biofilm anaeróbico oxida el sustrato, produciendo electrones y protones. Los protones migran de la cámara anódica a la catódica, a través de la membrana. Los electrones producidos en el metabolismo son donados por los microorganismos hacia un electrodo (Logan 2006, Rabey 2005).
+Los microorganismos electrogénicos son aquellos capaces de aceptar electrones de una fuente externa, y donarlos a un aceptor externo insoluble, como un electrodo polarizado (Logan 2006). No todos los microorganismos que forman parte de un biofilm tienen esta capacidad. Algunos pueden estar presentes, formando parte de una estructura sinérgica en la que proveen algún nutriente o metabolito necesario para el desarrollo de los microorganismos electrogénicos (Zhou 2004).
+
+
+
+Mecanismos de transferencia de electrones en microorganismos electrogénicos:
+
+En la naturaleza hay una gran diversidad de microorganismos electrogénicos, siendo los más estudiados Geobacter sulfurreducens y Shewanella oneidensis, dos bacterias Gram negativas que han servido de modelo para el estudio de los mecanismos de electrogenia (Bücking et al. 2013; Dolch et al. 2014; Levar et al. 2013). 
+Existen tres tipos de mecanismos que posibilitan el pasaje de los electrones producto del metabolismo hacia el electrodo: Transferencia directa de electrones (DIET), transferencia mediada de electrones (MET) y transferencia indirecta (IET) (Firer- Sherwood et al. 2008).
+En el mecanismo directo DIET los citocromos tipo c son elementos clave para el transporte a través de la membrana. Estos citocromos son moléculas multi hemo, con la capacidad de óxido-reducirse y que, conectadas en serie permiten el pasaje de los electrones a través de la membrana (Firer- Sherwood et al. 2008). Algunas bacterias como S. oneidensis y G.  sulfurreducens producen apéndices extracelulares, llamados pilis, que permiten la transferencia de electrones a largas distancias entre los microorganismos y la superficie del compuesto donor/aceptor, formando una conexión física entre la célula y el electrodo (Reguera et al. 2006). DIET es posible gracias al contacto entre las células y la superficie del electrodo y posibilita la formación de un biofilm o, al menos, una capa de células sobre la superficie del electrodo (Rabaey et al. 2011). El espesor de un biofilm electrogénico puede relacionarse directamente a la corriente producida (Reguera et al. 2006).
+En MET, partículas solubles que pueden ser regeneradas, permiten el contacto a largas distancias entre el microorganismo y el aceptor insoluble (Allen and Bennetto, 1993). Este tipo de mediadores es secretado por muchos microorganismos, como por ej S. oneidensis, que produce flavinas que cumplen este rol, o Pseudomonas aeruginosa, que secreta fenazinas (Sydow 2014). Muchos microorganismos pueden utilizar mediadores artificiales agregados al medio.
+Una variación de la transferencia electrónica mediada (MET) es la transferencia indirecta de electrones (IET), a través de la oxidación o reducción de compuestos producidos electroquímicamente por el electrodo o consumidos por este. Por ejemplo, electrodos polarizados a un potencial suficientemente negativo producen hidrógeno, que puede ser utilizado como dador de electrones por muchos microorganismos. Las especies de azufre pueden ser también utilizadas como mediadores electrónicos (Philips 2016). Un resumen de los tres mecanismos puede verse en la Figura 3.
+
+
+
+Figura 4: Esquema de mecanismos de transferencia electrónica: 1- Transferencia electrónica mediada 2- Transferencia electrónica directa 3- Transferencia electrónica indirecta. 
+
+Electrogenia en extremófilos:
+En los últimos años, diferentes estudios han permitido conocer los mecanismos utilizados por los microorganismos halófilos para proteger su maquinaria metabólica de la concentración salina del entorno, tanto intra como extracelular (Das Sarma, 2015; Yin et al., 2015). Algunos de estos mecanismos fueron expuestos más arriba. Estos hallazgos proveen un camino para tratar aguas residuales provenientes de diferentes industrias como la alimenticia o la petrolera, que se caracterizan por presentar un amplio rango de compuestos a tratar, por ej xenobióticos (biocidas, solventes orgánicos, inhibidores de corrosión) en la industria petrolera y altas concentraciones de sal que usualmente rondan los 200 g/L, o más (Shrestha 2017). El uso de microorganismos halófilos en MFC puede entonces, proveer otra opción para tratar estas aguas, que rondan el 5% del total de efluentes a nivel mundial (Gratteri et al., 2017). 
+Recientemente, diferentes microorganismos halófilos han sido utilizados para el estudio de sistemas electroquímicos, en rangos de salinidad que van desde 35 a 280 g/L NaCl. Hasta el momento, estos estudios incluyen a Bacteroides sp, Exiguobacterium acetylicum, Geoalkalibacter subterraneus, Proteobacteria, Halanaerobium praevalens, M. hydrocarbonoclasticus, Stenotrophomonas sp, Haloferax volcanii, Natrialba magadii y Desulfuromonas (Chen 2013, Badalamenti 2013, Camona-Martinez 2015, Carmona-Martinez 2013, Monzon 2016, Jayashree 2016, Monzón 2017, Naraghi 2015, Marone 2016). En estos estudios se logró obtener corrientes medibles de diferentes magnitudes, pero no se han reportado casos hasta la actualidad de microorganismos halófilos que cedan sus electrones mediante un mecanismo de transporte directo. 
+Como se mencionó más arriba, los citocromos cumplen un papel central en este tipo de metabolismo. En los halófilos se ha descripto que estas moléculas representan la mayor parte de los componentes de sus cadenas respiratorias, encontrándose citocromos de diferentes tipos (Cheah 1970a y 1970b).  Halobacterium salinarum posee citocromos a3, citocromos tipo b y bajos niveles de citocromos 0 y a3 (Cheah 1970; Gradin 1989). También se ha descripto que la cadena transportadora de electrones de Halobacterium cutirubrum  contiene citocromos tipo a,b y c (Lanyi 1968).
+ 
+Teniendo en cuenta estudios que reportan la obtención de corriente a partir de inóculos de diferentes sedimentos (Miceli 2012), en el marco del trabajo de nuestro grupo de estudiar la diversidad microbiana de salinas de la provincia de La Pampa (citas), nos propusimos aislar microorganismos electrogénicos hiperhalófilos a partir de sedimento de la salina Salitral Negro (La Pampa, Argentina). Para ello, se utilizaron dos estrategias de inoculación: Una a partir del barro obtenido, inoculando directamente dentro de un reactor electroquímico, y la otra a partir del enriquecimiento previo de microorganismos anaerobios en condiciones similares a las descriptas para microorganismos electrogénicos, y posterior inoculación en un reactor. A partir de estos estudios, complementados con técnicas tanto de microbiología clásica, como moleculares, se logró proponer un mecanismo de producción de corriente en el sedimento, así como la identificación de microorganismos en contacto con el electrodo en condiciones electrogénicas.
+Materiales y métodos:
+Toma de muestras:
+Se realizó un muestreo en la salina Salitral Negro (38º 43’ 01’’ S, 64º 09’ 01’’ O, La Pampa, Argentina) (Figura 5). Las muestras de sedimento fueron tomadas en condiciones de esterilidad durante el verano y transportadas al laboratorio para su estudio. Se colectó sedimento de una zona de poco tránsito de la orilla del cuerpo de agua. Se midió in situ el pH y la salinidad del agua del salitral.
+
+
+Figura 5: Ubicación geográfica de la salina Salitral Negro, La Pampa, Argentina.
+
+
+
+Condiciones de  cultivo:
+Todos los microorganismos fueron crecidos en medio SW (del inglés Sea Water), adaptado a condiciones mínimas, para que tanto la fuente de carbono como el oxidante utilizados por los microorganismos, fueran sólo los agregados al medio. La composición utilizada fue (g/L); 200 NaCl, 5 KCl, 0,5 NH4Cl, 0,65 NaBr, 0,71 CaCl, 19,04 MgCl, 0,02 K2HPO4, se utilizó el buffer PIPES 25mM para mantener el pH en 6,8. Todos los ensayos fueron realizados a una temperatura de 42°C. Como aceptores se utilizaron un electrodo polarizado en el caso de los reactores electroquímicos y Citrato de hierro (50mM) o fumarato (50 mM) en el caso de los cultivos en batch.
+El medio fue en todos los casos esterilizado en autoclave a 121°C y desoxigenado por burbujeo de N2 la cantidad de tiempo necesaria en cada caso, según el volumen utilizado.
+
+Celdas electroquímicas 
+Las celdas consistieron en una cámara con capacidad de 200ml, de los cuales 160ml fueron ocupados con medio de cultivo y el resto (alrededor de 40 ml) con el gas utilizado para mantener el ambiente anaeróbico (Figura 2.2). La cámara se cerró con una tapa de acrílico, ajustada por tuercas tipo mariposa. Entre la tapa de acrílico y la abertura de la cámara, se ubicó un o-ring para asegurar la hermeticidad y evitar así la entrada o escape de gases. La tapa se perforó para conectar la entrada controlada de gases y de medio en el caso de cultivo continuo. Se agregó una trampa de agua, consistente en una jeringa con salida al exterior para recolectar los gases y el excedente de medio de cultivo y una jeringa mediante la cual se introdujo gas al medio. Esta entrada y salida de gas posibilitó el ambiente anaeróbico en la celda, ya que se mantiene por presión positiva. Adicionalmente, en la tapa se hicieron agujeros mediante los cuales se introdujo el sistema de 3 electrodos necesarios para los experimentos.
+
+Como electrodos de trabajo se usaron electrodos de grafito de 0,4cm de diámetro, preparados mediante el pulido de la superficie con una lija de grado 1000. A continuación, se aplicaron 3 pulsos de sonicación de 5 segundos en agua destilada. Finalmente, se lavaron con agua destilada para terminar de limpiar la superficie. 
+Como electrodo de referencia se utilizó un electrodo de Ag/AgCl 3M NaCl, con potencial de +209mV contra el electrodo estándar de hidrógeno (SHE). Como contraelectrodo se usó un alambre de platino enrollado para aumentar la superficie sumergida.
+
+PONER FOTO
+
+Mediciones electroquímicas
+Se aplicaron diferentes técnicas para evaluar la producción de corriente por parte de los microorganismos:
+Cronoamperometría:
+Este ensayo permite medir la corriente que circula por el electrodo de trabajo a través del tiempo. Para ello se fija un potencial al cual estará posicionado el electrodo de trabajo, respecto al electrodo de referencia utilizado en el sistema. Se espera que la corriente generada sea producto de los electrones provenientes de los procesos metabólicos en el sistema. En este trabajo el potencial utilizado fue de 0,5V vs SHE qué es?
+
+Voltametría cíclica:
+En una voltametría cíclica se varía el potencial del electrodo de trabajo de forma cíclica a una velocidad deseada (V/s), entre dos potenciales preestablecidos, y se mide la corriente en el electrodo. Esta técnica permite identificar, mediante ese ciclado, procesos de óxido-reducción reversibles en el sistema, ya que la corriente aumentará en los potenciales a los que esos procesos tengan lugar, manifestándose en forma de “picos” de oxidación o reducción. Las voltametrías se hicieron entre -0,6 y 0,6V, a una velocidad de barrido de 10mV/s, partiendo del potencial de polarización.
+
+Todas las mediciones fueron llevadas a cabo por un potenciostato Autolab PGSTAT 101, controlado por el software NOVA 1.11
+
+Métodos de inoculación en los reactores:
+Se utilizaron dos estrategias de inoculación:
+1- La primera consistió en utilizar directamente el sedimento dentro de la celda electroquímica, en medio SW. Para esto, se tomaron 5 g de sedimento de la fracción anaeróbica (2cm por debajo de la superficie de la muestra).
+2- La otra estrategia consistió en obtener un cultivo enriquecido en respiradores de fumarato, para después inocular el reactor. Se colocó 1 g de sedimento en un vial, con medio SW desoxigenado y fumarato 50mM?. Una vez alcanzada la fase estacionaria se realizó una dilución 1/50 a un nuevo vial con medio estéril. Nuevamente se incubó hasta alcanzar la fase estacionaria y se siguió esta estrategia hasta llegar al 5to pasaje, en donde se asumió que se había conseguido un cultivo estable anaeróbico de respiradores de fumarato.    
+
+Resultados:
+Reactores inoculados con sedimento:
+El sedimento en sí es una fuente de electrones a considerar, dado que contiene poblaciones de microorganismos capaces de llevar a cabo diferentes metabolismos. Se ha estimado que sedimentos que contienen alrededor de 2% de materia orgánica, tienen una capacidad energética de 17 W/dm3. Por este motivo, como primera estrategia para obtener microorganismos halófilos electrogénicos, se inoculó una celda electroquímica en medio SW, con sedimento de la salina Salitral Negro. La celda fue mantenida a 42°C en condiciones de cultivo continuo, sin agitación. Los electrodos se mantuvieron en contacto con el sedimento.
+Inicialmente se registró una fase lag de aproximadamente 10 días. A partir de ese momento, la corriente fue en aumento hasta alcanzar alrededor de 0,07A/m2. Esta curva mostró un comportamiento similar a una curva de crecimiento microbiano. En el caso de microorganismos electrogénicos, la curva de corriente puede ser tomada de forma análoga a una curva de crecimiento (Figura 6).  
+
+
+
+
+
+
+
+
+
+
+Figura 6: Se inoculó una celda electroquímica con sedimento de la salina Salitral Negro. Se realizó una cronoamperometría para medir la corriente generada en el sistema.
+
+Se midieron diferentes parámetros físico-químicos para analizar su influencia sobre la corriente generada. Para estudiar el efecto del pH el ensayo se llevó a cabo en condiciones de cultivo continuo sin el agregado de buffer, lo que causó la acidificación del medio (pH 5.5). A continuación se restableció el pH a los valores normales. Se observó una relación directa entre la corriente y este parámetro (Figura 7).
+También se modificó la temperatura, que bajó de 42°C a 33°C, temperatura óptima de muchos microorganismos no halófilos o halotolerantes. Al igual que en el ensayo anterior, la disminución de corriente fue muy marcada (Figura 7). En ambos casos, esta disminución ocurrió cuando los parámetros físicos analizados se llevaron a un nivel subóptimo para el desarrollo de los microorganismos hiperhalófilos, lo que sugiere su participación en la generación de la corriente.
+
+
+poner figura!
+
+
+Figura 7: Curvas cronoamperométricas de reactores en condiciones de variación de 1- La temperatura y 2- El pH.
+
+Teniendo en cuenta los resultados presentados hasta el momento, se puede afirmar que fue posible obtener corriente de un sedimento hiperhalófilo. El siguiente paso fue determinar la naturaleza de dicha corriente. Como se vió anteriormente, son varios los procesos y formas en las que se puede dar la interacción de moléculas redox con el electrodo. Este objetivo se abordó mediante ensayos de voltametría cíclica, que permiten identificar procesos de óxido-reducción. Así, se realizaron voltametrías a diferentes tiempos a lo largo de la curva de crecimiento de la corriente. En la Figura 8 se puede ver que existe una correlación positiva entre el tiempo transcurrido y la corriente medida (Dia 30, Figura 8), detectandose un pico de oxidación alrededor de -0,2V. Al ciclar hacia los potenciales negativos no se observó ningún proceso reductivo, lo que indicaría un proceso de oxidación irreversible en el sistema, diferente a lo esperado si hubiera un proceso de transferencia directa de electrones. Si este fuera el caso, se esperaría un pico de oxidación de las moléculas involucradas al moverse hacia potenciales positivos, y uno de reducción por la entrega de electrones desde el electrodo a dichas moléculas, moviéndose hacia potenciales negativos (Harnisch 2012).
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figura 8: Voltametría cíclica en diferentes días, de reactores electroquímicos inoculados con sedimento de la salina Salitral Negro. La velocidad de escaneo fue de 10 mV/s
+
+
+Hasta el momento, entonces, se pudo extraer corriente a partir de un sedimento hiperhalófilo. Esta corriente presumiblemente estaría determinada por un mecanismo de transferencia indirecta de electrones. El siguiente paso fue conocer la identidad de los microorganismos generadores de estos procesos. En cuanto a la naturaleza del proceso oxidativo, se sabe que a pH cercano a la neutralidad, el sulfuro puede ser oxidado abióticamente a potenciales de -0,2V (Valensi 1974). Este valor es el que se puede ver en la Figura 8, identificado previamente como proceso oxidativo. Los sedimentos hipersalinos como el que se utilizó, son sedimentos con alta productividad primaria y altas concentraciones de sulfato (Oren 2002), favoreciendo la proliferación de microorganismos reductores de sulfato en la zona anóxica. 
+Con estos datos, se puede pensar que el sistema en estudio puede involucrar microorganismos capaces de reducir sulfato, por lo que ésta fue la opción explorada a continuación.
+ Se realizaron ensayos con cultivos en batch utilizando como aceptor electrónico citrato de hierro. Este compuesto tiene un color “caramelo”, que desaparece cuando el hierro es reducido por algún agente. Teniendo en cuenta esto, se incubaron cultivos con citrato de hierro y dos fuentes de carbono, acetato o lactato, y se observó si hubo o no decoloración a lo largo del tiempo. Estos cultivos se cotejaron contra un control estéril. Para corroborar que en el proceso estuviera involucrada la reducción de sulfato se utilizó molibdato, compuesto que afecta la vía de reducción de sulfato mediante la inhibición de una enzima clave, la ATP-sulfurilasa (Postgate 1984, Peck 1959). 
+
+Figura 9: Cultivos crecidos con lactato o acetato como reductores y Fe-Cit como oxidantes. Los cultivos se incubaron en presencia o ausencia de Molibdato 20 mM, inhibidor de la reducción de sulfato (A los crecidos en presencia de molibdato, se les agregó lactato 20 mM como reductor)
+
+Como se puede ver en la figura 9, en los cultivos con molibdato no se redujo el hierro presente en el medio, a diferencia de los cultivos en los que este compuesto no estuvo presente. A su vez, entre los reductores utilizados, el lactato fue el que registró reducción de Fe, mientras que prácticamente no se observó en presencia de acetato (Aunque existe una decoloración parcial, puede ser debido a la utilización de algún reductor presente en el sedimento esta decoloración parcial también se vio en los controles estériles???? ). Esto estaría indicando, como se pensó, que la reducción de hierro estaría relacionada al metabolismo del azufre, particularmente a la producción de sulfuro.
+
+
+
+Reactores inoculados con respiradores de Fumarato:	
+Como estrategia para aislar microorganismos electrogénicos, el método anteriormente descripto no fue efectivo. A pesar de que se obtuvo corriente, se presume que fue por un mecanismo indirecto y no mediante una transferencia directa de electrones, como se buscaba. Los compuestos de azufre presentes en el sedimento, sumados a la presencia de microorganismos con este tipo de metabolismo en la muestra estudiada (Figura 9), hacen pensar que estos pueden haber sido favorecidos en su crecimiento, dificultando la proliferación de microorganismos electrogénicos.  Se sabe que el crecimiento en sulfato es energéticamente más favorable que el de reducción de un aceptor electrónico externo (-156,1 Vs -100,34 Kj/mol de Lactato oxidado) (Una explicación detallada de los mecanismos y rendimientos energéticos se ofrece en el Cap. 4).
+Como segunda estrategia, se realizó un pre-enriquecimiento en microorganismos anaeróbicos ya independientes del sedimento y posteriormente se inoculó un reactor polarizado. En este caso se utilizó fumarato como aceptor de electrones. La respiración de fumarato es el tipo de respiración anaeróbica más extendida, debido a que puede ser formado a partir del metabolismo de carbohidratos y de proteínas. Es el único intermediario metabólico conocido utilizado como aceptor electrónico en respiración anaeróbica, dando como producto propionato o succinato (Kröger 1992). A su vez, es un aceptor utilizado para crecer Geobacter sulfurreducens en medio con aceptor soluble (Esteve-Nuñes 2004). Por estos motivos, el fumarato fue el aceptor elegido para aislar posibles microorganismos electrogénicos halófilos del sedimento de la salina.
+El enriquecimiento se llevó a cabo colocando 1g de sedimento (extraído de la fracción anaeróbica), en medio SW anaeróbico con fumarato. Luego de sucesivos pasajes, se logró obtener un cultivo estable de microorganismos respiradores de fumarato, independientes del sedimento. Dado que la fermentación de lactato se ha descripto en unos pocos casos (Ladd and Walker 1958, Tang 1989, Alexander and Davies 1963, Dennis 1989, Prins 1975), para descartar esta posibilidad y asegurarnos de seleccionar microorganismos respiradores, se incubaron viales anóxicos sin aceptor electrónico, utilizando acetato o lactato como sustratos. Estos cultivos fueron inoculados de igual forma que los utilizados en los ensayos. En ningún caso se obtuvo crecimiento, por lo que un metabolismo del tipo fermentativo, utilizando lactato o acetato como sustrato quedaría descartado en estas condiciones.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figura 10: 
+
+
+Cronoamperometría de reactor electroquímico inoculado con un cultivo pre-enriquecido en respiradores de fumarato. La polarización del electrodo de trabajo fue de 0,3V Vs Ag/AgCl.
+
+Se inocularon reactores electroquímicos con 10 mL del cultivo enriquecido en respiradores de fumarato. En este caso se pudo obtener una corriente máxima de 10uA (Figura 10). La curva tuvo forma exponencial, pero su pendiente resultó más leve que la del reactor ensayado anteriormente. Esto es esperable si se considera una respiración anaeróbica extracelular como un tipo de metabolismo energéticamente menos favorable que el anterior, ya que el tiempo de duplicación de un microorganismo está directamente relacionado a la pendiente de la fase exponencial en la curva de crecimiento. (Widel 2007)
+Luego de alcanzar el máximo de 10uA la corriente comenzó a decaer, pero se recuperó con el agregado de Lactato, la fuente tanto de carbono como de electrones en el medio, llegando nuevamente al máximo valor medido.
+ El valor de corriente resultó mucho menor al obtenido mediante el método de inoculación con sedimento, pero la naturaleza de la corriente podría ser diferente. Para corroborar esto, se realizó un ensayo de voltametría cíclica (Figura 11).
+
+
+
+
+
+
+
+
+
+
+
+
+Figura 11: Voltametría cíclica de reactor electroquímico inoculado con respiradores de fumarato. Se realizaron al alcanzar las dos corrientes máximas: Corriente 1: a las 336 horas, Corriente 2: al final del experimento, en fase estacionaria.
+
+Se puede ver en la figura la clara diferencia entre estas voltametrías y las del sistema anterior. En este caso, el potencial de pico está posicionado a 0,1V (recordar que en el caso anterior, estaba 300mV por debajo de este valor). La diferencia podría deberse a que en el sistema de inoculación utilizado en la primera aproximación se están incorporando compuestos de azufre presentes en el sedimento, que pueden ser electroactivos. Por ej, el Dimetilsulfuro (DMS), compuesto presente en aguas con contenido de azufre que por el metabolismo microbiano se obtiene a partir de la reducción de dimetilsulfóxido (DMSO); o el sulfuro, producto de la reducción de sulfato, son compuestos encontrados comúnmente en este tipo de ambientes y producen señales a potenciales negativos en ensayos de voltametría cíclica, cercanos a los valores de las señales obtenidas en la voltametría con sedimento (Ciglenečki 2014, Cigleneeki 1995). Por otro lado, los picos de oxidación obtenidos en las voltametrías realizadas a Geobacter sulfurreducens, organismo modelo en este tipo de crecimiento, aparecen alrededor de 0,1V Vs Ag/ClAg (Marsili 2009), cercanos a los encontrados en la segunda estrategia de inoculación. Esto sugiere que la señal obtenida en los cultivos independientes del sedimento sería producto directo de los microorganismos.
+
+Identificación de microorganismos  hiperhalófilos electrogénicos: 
+Con la intención de identificar la fuente de producción de corriente, se aislaron e identificaron los microorganismos presentes en el electrodo. Para eso, luego de obtener las células por centrifugación, se extrajo el ADN y se amplificó y secuenció el gen codificante de la subunidad 16S del ARNr con cebadores específicos para arqueas y bacterias. Si bien la comunidad de respiradores de electrodo estuvo compuesta tanto por arqueas como por bacterias, sólo se pudo identificar mediante este método la presencia de  microorganismos pertenecientes al dominio arquea; particularmente a los géneros Halorubrum y Haloarcula.
+Figura? Tabla?
+Discusión
+Como primera estrategia para obtener microorganismos electrogénicos se utilizó una celda microbiana de combustible (MFC) inoculada con sedimento de la salina Salitral Negro. Estas celdas se han propuesto hace tiempo como solución posible para tratar aguas residuales. El concepto se basa en sumergir el ánodo en el sedimento, permitiendo la interacción directa de la microbiota autóctona directamente con el electrodo y ha sido probado en agua dulce (Song 2010, Hong 2009) y marina (Bond 2002, Reimer 2001), entre otros (Miceli 2012).
+Teniendo en cuenta los resultados mostrados, el metabolismo responsable de la producción de corriente sería la reducción de sulfato. En este tipo de ambientes el sulfato del medio externo es internalizado a la célula a través de la membrana. En el citoplasma, los iones sulfato reaccionan con ATP para formar adenosina-5-fosfosulfato, que puede ser directamente reducido a sulfito. Finalmente, el sulfito es reducido a sulfuro, que es excretado fuera de la célula (Mangalo 2007, Shen 2004). A los potenciales utilizados en los experimentos, este sulfuro generado por los microorganismos puede ser oxidado abióticamente por un electrodo polarizado a potenciales de -0,2V  (Valensi 1974). En sedimentos se sabe que el hierro puede reaccionar con el sulfuro para producir FeS, un precipitado color negro, característico de sedimentos ricos en especies de azufre (Jorgensen 1977). Al inhibir la respiración desasimilatoria de sulfato con molibdato se suprimió la reducción de hierro en los cultivos crecidos en batch, lo que probaría la presencia de este tipo de procesos en el sedimento utilizado como inóculo. 
+En cuanto a la evaluación de la influencia de los parámetros físicos en la generación de corriente, se observó que la misma disminuyó cuando la temperatura o el pH se alejaron de los valores óptimos para el crecimiento de los microorganismos halófilos (42°C y pH 7), lo que también apoya la idea de una producción biológica de corriente (Bowers 2011).
+Teniendo en cuenta lo anterior, se puede proponer un modelo en el que la materia orgánica presente en el sedimento, así como el lactato agregado al medio de cultivo, sean oxidados por los microorganismos reductores de sulfato presentes en el inóculo, con la consecuente producción de sulfuro. A su vez, el sulfuro producido por los microorganismos estaría siendo oxidado por el electrodo, completando el ciclo y reciclando el aceptor (Figura 12).
+
+
+
+
+
+
+
+
+Figura 12: Mecanismo propuesto de obtención de corriente en una celda electroquímica inoculada con un sedimento hiperhalófilo.
+NO SE VE BIEN LO ESCRITO DENTRO DE LA FIGURA 
+Como se verá más adelante, hay una comunidad de microorganismos respiradores de sulfato en el sedimento estudiado, compuesto tanto por arqueas como por bacterias, capaces de crecer oxidando lactato. 
+La idea de MFC con el ánodo sumergido en un sedimento salino se ha presentado hace unos años (Reimers 2001, Bond 2002) y su estudio se ha seguido profundizando con trabajos más recientes (Zhang 2012, Wang 2012, Viggi 2015, Pham 2019). Sin embargo, son escasos los reportes que exploran estos sistemas en condiciones extremas de salinidad (Miller 2008). Estos trabajos no hacen referencia a un mecanismo de generación de corriente como el abordado en el presente trabajo de tesis. En los resultados presentados por Pham (2019), si bien la concentración salina del medio fue menor (2,5M) a la utilizada en el presente trabajo (3,3M), se exploran los microorganismos presumiblemente responsables de la generación de corriente. Entre los microorganismos hallados se encuentra Desulfobacula toluolica, una bacteria reductora de sulfato. 
+En el presente capítulo se muestran evidencias que proponen al metabolismo reductor de sulfato como un mecanismo muy importante en la generación de corriente en sedimentos hiperhalófilos, colocando a los microorganismos capaces de llevar a cabo este proceso como actores necesarios en el estudio de la remoción de materia orgánica en aguas residuales con recuperación de energía.
+
+Microorganismos halófilos electroactivos:
+Ante la imposibilidad, mediante la estrategia anterior, de aislar microorganismos capaces de llevar a cabo transferencia directa de electrones, se diseñó una segunda estrategia de inoculación, a partir de un inóculo pre-enriquecido en respiradores de fumarato. Los estudios realizados hasta el momento con microorganismos halófilos son escasos y abarcan diferentes especies y rangos de salinidad. Entre estos podemos encontrar trabajos con Bacteroides sp., (Shehab 2017), Exiguobacterium acetylicum (Chen 2013), Geoalkalibacter subterraneus DSM 23483 (Badalamenti 2013; Carmona Martínez 2013), Proteobacteria (Carmona-Martínez 2015), Halanaerobium praevalens (Monzon 2016; 2017), M. hydrocarbonoclasticus (Monzon 2016), Stenotrophomonas sp., RB1B (Jayashree 2016), Haloferax volcanii (Naraghi  2015), Natrialba magadii (Naraghi 2015), Desulfuromonas y Geoalkalibacter (Marone 2016). En estos trabajos el rango de salinidad fue menor al utilizado en esta tesis. En los casos de halófilos extremos, como en el trabajo presentado por Miller (2008), los medios de cultivo utilizados contenían otros aceptores electrónicos, como sulfato, además de electrodo, por lo que el mecanismo que podría estar involucrado en la generación de corriente sería más parecido al descripto para la celda inoculada con sedimento. 
+En esta segunda estrategia se utilizó un medio mínimo en el que el único aceptor posible fue el electrodo polarizado, por lo que los microorganismos sólo pudieron sobrevivir mediante su respiración, oxidando lactato, única fuente de carbono y electrones presente en el medio. Adicionalmente, se había probado la ausencia de un metabolismo fermentativo para descartar esa posibilidad. No hay bibliografía hasta el momento que proponga el crecimiento de microorganismos halófilos electroactivos mediante el contacto directo con el electrodo. Queda por determinar si este contacto es directo o mediante la utilización de mediadores redox.
+Los microorganismos obtienen energía al transferir electrones de un dador de bajo potencial, como el lactato, hacia un aceptor de alto potencial, como el oxígeno. El potencial del electrodo de trabajo es indispensable para determinar el metabolismo bacteriano en este tipo de crecimiento (Aelterman 2008). Este potencial también determina el rendimiento de la transferencia de electrones a través de la membrana (Kumar 2015). Un potencial más negativo obliga a los microorganismos a entregar los electrones a través de complejos más reducidos. Por estos motivos, se busca que los microorganismos entreguen los electrones a través del componente de su cadena transportadora con potenciales más positivos. El potencial de reducción de los citocromos c por ej, es de 0,25V, y el del hierro de 0,77V (Kumar 2015).
+Es sabido que la diferencia entre dadores y aceptores electrónicos es usada por los microorganismos para sintetizar ATP a partir de ADP (Rudolf 1977). En este contexto, dada la exigencia energética de su estilo de vida, es esperable que los microorganismos halófilos cedan los electrones al electrodo a potenciales más altos respecto a los microorganismos electrogénicos Geobacter sulfurreducens o Shewanella oneidensis. En el trabajo de Badalamenti y colaboradores (2016) se aisló un microorganismo halotolerante, Desulfuromonas soudanensis WTLK, capaz de crecer con el electrodo de trabajo posicionado a 100mV por encima del potencial de crecimiento de Geobacter sulfurreducens. Coincidentemente con esto, en nuestro trabajo demostramos que los microorganismos capaces de generar una corriente estarían entregando los electrones a un potencial más positivo, respecto a los involucrados en este tipo de metabolismos en condiciones de agua dulce.
+Si bien la corriente obtenida fue menor que la producida por los microorganismos electrogénicos modelo, se ha demostrado que un cultivo electrogénico de células de Shewanella oneidensis produce cuatro veces menos corriente cuando el crecimiento celular sobre el electrodo es de una monocapa, respecto a un crecimiento en multicapa (Okamoto 2012). En nuestros ensayos no se observó un biofilm de tamaño macroscópico sobre el electrodo polarizado, por lo que la falta de ese desarrollo puede haber sido una de las causas de la menor corriente obtenida. 
+Como se mencionó anteriormente, los microorganismos que crecen respirando un electrodo polarizado suelen presentar un tiempo de duplicación mayor al de los microorganismos con respiración desasimilatoria en la que el aceptor electrónico es internalizado. En Geobacter sulfurreducens por ej, el tiempo de duplicación en fumarato es de alrededor de 7 h (Galushko 2000), mientras que  aumenta a 19 h cuando crece respirando un electrodo polarizado (Richter 2008). La imposibilidad de obtener un biofilm, sumado al rendimiento de una respiración electrogénica, en un entorno con tantas exigencias energéticas como lo es la hiperhalofilia pueden haber dificultado la obtención de corrientes más altas. 
+
+
+Conclusiones:
+En el presente capítulo se describieron dos métodos de obtención de corriente a partir de comunidades de microorganismos anaeróbicos hiperhalófilos. En el caso de la celda inoculada con sedimento, se pudo atribuir esta corriente a microorganismos reductores de sulfato, mediante la reacción de oxidación de sulfuro (producto de su metabolismo), con el electrodo a los potenciales utilizados. En la segunda estrategia, se pudo obtener una corriente presumiblemente resultado de la interacción entre el electrodo y la comunidad enriquecida, así como identificar a uno de los integrantes de la comunidad interactuante. En el capítulo de metabolismo se discutirá más en profundidad las implicancias bioenergéticas de este proceso. Estos resultados constituyen el primer caso descripto de interacción microorganismo-electrodo en hiperhalofilia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capítulo 2:
+Análisis de la Microbiota halófila anaeróbica
+Introducción:
+Las haloarqueas tienen como requerimiento obligado la presencia de altas concentraciones de sal para habitar un ambiente. En general no crecen por debajo de 2M NaCl (McGenity 2000). Por encima de 3,5M NaCl, son generalmente los microorganismos dominantes (Benlloch 1996, Ventosa et al 1998, Castillo-Carvajal 2014, Oren 2002). 
+Las propiedades de los ecosistemas salinos dependen mayormente de dos factores: la concentración general de sales y la composición iónica. Como se dijo anteriormente, estos ambientes pueden ser thalassohalinos, con una composición iónica similar a la del agua de mar, siendo Na+ y Cl- los iones principales (McGenity et al. 2000; Oren 2002a, 2006; Rodriguez-Valera 1993). En estos ambientes el pH suele ser neutro o levemente alcalino (Oren 2002, 2006). Cuando su composición iónica varía respecto al agua de mar, los ambientes se conocen como athalassohalinos (Rodriguez-Valera 1993; Oren 2002a, 2006). Un ejemplo conocido es el Mar Muerto, que tiene un pH aproximado de 5.8-6.0, y está dominado por dos cationes divalentes: Mg+2 (con una concentración aproximada de 1,9M) y Ca+2 (con una concentración aproximada de 0,45M), ambas más elevadas que las de Na+ (1,6M) y Cl- (0,2M). La alta concentración de Ca+ resulta en una baja solubilidad de sulfatos y en la predominancia de aniones como el Cl- y Br- (más del 99%) (Oren 2002, 2006). El contenido de microorganismos en estos ambientes suele estar entre 107 y 108 células/ml, pero se han reportado cantidades incluso mayores (Javor 1983, 1989; Oren 2002). Las altas concentraciones celulares  hacen que la superficie de los cuerpos de agua se torne de color rojizo, aumentando la evaporación al capturar la radiación solar (Shahmohammadi 1998). Este color es producido principalmente por dos tipos de microorganismos ricos en carotenoides: arqueas hiperhlófilas de la familia Halobacteriaceae y las algas unicelulares de la especie Dunaliella salina. La mayor parte de los carotenoides de las halobacterias son carotenoides C-50,  mayormente  α-bacterioruberina y derivados (Kushwaha 1975, Kelly 1970). Mientras que Dunaliella acumula β-caroteno en condiciones similares.  
+En Argentina, los ambientes evaporíticos están muy representados con facies del Mioceno, desde la frontera Boliviana, hasta la provincia de Mendoza, así como por depósitos del Cuaternario, de la Puna a la Patagonia. Se reconocen mayormente dos grandes ambientes salinos: el Pampeano, entre la provincia de Buenos Aires y Catamarca, y el patagónico (Cantero 2016). La Puna es considerada como una “provincia evaporítica”, con profundas salinas naturales (Alonso 2005).
+En nuestro grupo previamente se estudió la microbiota del agua de tres salinas pampeanas: Salitral Negro, Colorada Grande y Guatraché (Di Meglio et al. 2016; Di Meglio 2017 Tesis Doctoral). En la presente tesis se estudió la microbiota del sedimento de la salina Salitral Negro. Esta salina, también conocida como salina del lote 4, Salitral de El Progreso y Salina de Giacomelli, si bien no ocupa un lugar de relevancia entre los cuerpos salinos de la provincia, constituye una de las riquezas minerales más sólidas de La Pampa (Cordini 1967). Es una salina ovoidal de 10Km de longitud, por 2,5Km de ancho. La capa temporaria de sal tiene unos 3 a 4cm y puede alcanzar los 6cm (Folguera 2015). El particular, Salitral Negro es explotada para la extracción de NaCl (SEGEMAR). El mineral útil es la halita, que se presenta intercalada con fangos oscuros. Su rendimiento teórico aproximado es de 480000t de NaCl.
+
+Microbiota de las salinas:
+Diversos estudios, tanto dependientes como independientes de cultivo, muestran que estos ambientes están habitados principalmente por Arqueas y Bacterias, como mayores representantes de la microbiota, habiendo en menor medida representantes eucariotas (Benlloch 1996; Anton 1999, 2000; Rodríguez-Valera 1999; Litchfield and Gillevet 2002; Øvrea˚s 2003; Di Meglio et al. 2016). Generalmente, estos ambientes suelen estar dominados por Arqueas, con Haloquadratum walsby, Halorubrum sp y Halobacterium sp como sus mayores representantes (Benlloch2002; Burns 2004, Ventosa 2015). La fracción bacteriana está dominada frecuentemente por diferentes filotipos de Salinibacter, así como por diferentes miembros de Bacteroidetes (Antón 2002, 2008; Øvreas 2003). Adicionalmente, se encuentran miembros del grupo conocido como “materia oscura microbiana”, microorganismos que no han sido cultivados hasta la fecha (Rinke 2013) en particular, de la clase Nanohaloarchaeota (Wang 2011, Narasingarao 2012, Di Meglio et al. 2016).
+Los lagos salinos mejor estudiados son Great Salt Lake, en EEUU, y el Mar Muerto (Oren 2015). En el primer caso, los productores primarios son las cianobacterias en las regiones de menor salinidad y el alga Dunaliella en las zonas más salinas. Se han llevado a cabo estudios de diversidad microbiológica, tanto de arqueas como de bacterias, a lo largo del gradiente vertical de salinidad, muy marcado en este lago (Larson 2013). Los estudios realizados mostraron que la mayoría de las secuencias del gen del ARNr 16S, estaban relacionadas a microorganismos no cultivados, lejanamente afiliados a microorganismos halófilos descriptos, pero presentando nuevos filotipos (Tazi 2014, Meuzer 2013).
+En cuanto al Mar Muerto, la concentración salina sumada a la de los cationes divalentes hacen que actualmente su comunidad microbiológica no sea abundante. El último “bloom” de arqueas data de 1992-1995 (Bodaker 2010, Rhodes 2012).  
+La microbiota de salinas en la Argentina no ha sido estudiada profundamente, a excepción de las salinas andinas de altura en el norte argentino (Farias 2020, 2014; Saona 2020)
+En particular para el Salitral Negro, la salina en la que se llevó a cabo este trabajo, existe una sola referencia previa, correspondiente al trabajo realizado por nuestro grupo de investigación (Di Meglio et al 2016). En este trabajo se abordó el estudio de la diversidad microbiana aerobia de tres salinas: Colorada Grande, Salitral Negro y Guatraché. En todos los casos los microorganismos pertenecientes a la clase Halobacteria, dentro del phylum Euryaechaeota, fueron los más representados. Algunas de las secuencias obtenidas pudieron ser asignadas a los géneros Halorubrum y Haloquadratum, pertenecientes a la familia Haloferacaceae. Adicionalmente, se encontraron representantes del phylum Nanoarchaeota, un grupo de microorganismos no cultivados, de tamaño pequeño, simbiontes obligados (CITA)
+Entre las bacterias, los mayores representantes en estas salinas se afiliaron al phylum Bacteroidetes, con presencia de microorganismos no cultivados del género Salinibacter. El resto de las secuencias se relacionó a proteobacterias.  
+La gran mayoría de los trabajos de microbiología de ambientes salinos hacen énfasis principalmente en la diversidad de microorganismos aeróbicos, con poca información acerca de la fracción anaeróbica (Vavourakis 2016, Vavourakis 2018, Ventosa 2015). El objetivo del presente capítulo fue el estudio de la fracción microbiológica anaeróbica presente en el sedimento de la salina Salitral Negro. Mediante técnicas dependientes de cultivo y ensayos de electroforesis en gel desnaturalizante, se estudió la diversidad presente, así como a capacidad de los microorganismos encontrados de crecer respirando diferentes aceptores electrónicos, aspecto relevante en los metabolismos halófilos, como se verá más adelante.
+
+Materiales y métodos:
+Condiciones de crecimiento y medio de cultivo:
+El medio de cultivo utilizado fue el medio mínimo descripto en la sección “Materiales y métodos” del Capítulo 1. En este caso, el crecimiento en diferentes aceptores electrónicos se realizó con los siguientes compuestos: Nitrato 30mM, DMSO 5g/L, Fumarato 50mM, Tiosulfato 30mM y Sulfato 28mM. El dador de electrones siempre fue lactato 20mM. 
+TEMPERATURA, VOLUMENES DE CULTIVOS?
+
+Obtención, amplificación y resolución por electroforesis en gel con gradiente desnaturalizante (DGGE) de las secuencias de 16S ARNr.
+
+Para la obtención del ADN, 1ml de muestra de cada cultivo en fase estacionaria, fue purificado utilizando el kit “Microbial DNA isolation Kit MO Bio”. Se amplificó la secuencia del gen del ARNr 16S mediante PCR. Los primers utilizados fueron el 341f-GC : 5_-CGC CCG CCG CGC GCG GCG GGC GGG GCG GGG GCA CGG GGG GCC TAC GGG AGG CAG CAG-3_ y 907r: 5_-CCG TCA ATT CMT TTG AGT TT-3´ para Bacteria y 344f-GC: 5_-CGC CCG CCG CGC CCC GCG CCC GTC CCG CCG CCC CCG CCC GAC GGG GYG CAG CAG GCG CGA-3´y 907r para Archaea). Se usó el programa de amplificación previamente descripto por Amann et al. (1990) y Muyzer et al. (1993). Se usó un paso final de extensión de 30 min para completar los fragmentos de mayor tamaño, de acuerdo al protocolo utilizado por Janse et al. (2004). Se armó un pool con productos de amplificación de sucesivas reacciones y luego se concentró para obtener un mínimo de 16ng/uL. Por cada muestra, se sembró una cantidad correspondiente a 500ng de producto de amplificación, en un gel de acrilamida desnaturalizante (0,75mm de espesor).
+El ensayo de DGGE fue realizado en buffer Tris-Acido acético-EDTA (TAE)(Tris 40mM pH: 8, ácido acético 20mM, EDTA 1mM), a un potencial de 60V y una temperatura de 62°C,durante 16 h.
+El gradiente desnaturalizante de urea y formamida fue de 45%-65%. Luego del ensayo, el gel fue teñido con Sybr Gold por 30 min y lavado con buffer TAE, para su visualización bajo luz UV.
+Las bandas seleccionadas para su estudio fueron cortadas del gel y resuspendidas en 20uL de agua destilada estéril e incubadas por 16 h a 4°C. El ADN correspondiente a cada banda fue luego re-amplificado mediante el programa previamente utilizado.
+El ADN obtenido de la reamplificación de las bandas fue secuenciado usando el servicio “Standard-Seq” de Macrogen (Korea). Para su identificación en las bases de datos se utilizó la herramienta BLASTn del sitio web del Centro Nacional de Información Biotecnológica (http://www.ncbi.nlm.nih.gov/). Las secuencias obtenidas fueron ingresadas a la base de datos GenBank (números de acceso---------). COMPLETAR
+Medida de diversidad:
+
+Se calculó el índice de Shannon-Weaver  (H) como medida de diversidad general (Shannon y Weaver, 1963), según la siguiente fórmula:
+
+H=−ΣPilog2Pi
+En donde Pi es la probabilidad de ocurrencia de una banda en una calle dada.. H se calculó en base a las bandas en cada calle del gel, usando la intensidad de la banda como la altura máxima en las curvas densitométricas. 
+P se calcula como:
+Pi=ni/Σni
+En donde ni es la altura del pico i en la curva densitométrica.
+Un valor mayor de H, indica una mayor diversidad en la población estudiada.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resultados:
+Composición de la comunidad anaeróbica del sedimento:
+Con el objetivo de analizar la diversidad de microorganismos halófilos anaeróbicos, se extrajo el ADN de las comunidades en estudio. Se hicieron dos tipos de aproximaciones: el análisis metagenómico del sedimento, para conocer la comunidad de partida y el análisis mediante DGGE de las comunidades anaeróbicas presentes en cada enriquecimiento.
+Análisis metagenómico del sedimento de la salina Salitral Negro:
+El análisis se hizo a nivel de reinos y clases. Se tomaron en cuenta dos aspectos: la diversidad, como la proporción de OTUs diferentes que se encontró en cada grupo y la abundancia, como el número y la frecuencia de OTUs correspondientes a cada clase. 
+Respecto a la diversidad, fue mayor para arqueas que para bacterias. Sin embargo, la cantidad de secuencias recuperadas pertenecientes a bacterias (Abundancia) fue mayor (Fig. 13). Estos resultados de mayor abundancia de bacterias y menor diversidad ya fueron informados por Di Meglio 2016, para Salitral Negro, en la misma temporada (verano) en la que se tomaron las muestras de este trabajo.
+
+Fig 13: Proporción de secuenciias encontradas, pertenecientes a los reinos Arquea o Bacteria, en el ensayo de secuenciación. A)Diversidad de secuenciss hlladas para cada reino. B) Abundancia de secuencias encontradas dentro de cada reino.  
+En cuanto al estudio a nivel de clase, en el caso de las arqueas, la clase de Halobacterias fue la más abundante y la más diversa (Fig. 14). Este grupo incluye géneros como Haloqudratum o Halorubrum, reportados como dominantes en estudios metagenómicos de ambientes hiperhalofílicos (Pasic et al 2009; Ghai et al 2011; Fernandez et al 2014; Cowan et al 2015). La presencia de Thermoplasmata y Archaeoglobi especifica la integración de microorganismos hipertermófilos en la microbiota de Salitral Negro. Estos microorganismos ya se habían informado en entornos hipersalinos (Thomas et al 2014). Las metanobacterias, junto con Thermoplasmata, fue el otro grupo representado con más del 10% de diversidad. Esto indica una representación de aproximadamente el 20% de los microorganismos capaces de llevar a cabo un metabolismo metanogénico (en particular, todas las secuencias recuperadas de Thermoplasmata, estaban relacionadas con la familia Methanomassiliicoccaceae, del metabolismo metanogénico) (Lino et al., 2013, Borrel et al. ., 2013). En menor proporción, se encontraron las clases DSEG (tambien conocida como Aenigmaarchaeota) y MCG (Miscellaneous Crenarchaeotic Group), de miembros no cultivados, generalmente dados a conocer mediante estudios metagenómicos. El linaje MCG tiene una distribución cosmopolita, pero se ha encontrado principalmente en sedimentos anóxicos marinos (Fry et al., 2008; Kubo et al., 2012; Lloyd et al., 2013). La clase DSEG está incluida en el supefilo conocido como DPANN o "materia oscura microbiana" , formado por arqueas no cultivadas (Rinke et al., 2013; Ortiz-Alvarez et al .; 2016 )
+En términos de abundancia, las clases que tienen la mayor diversidad también fueron las más abundantes, con Halobacteria, Methanobacteria y Thermoplasmata representando más del 90% de las secuencias encontradas (Fig 14). Di Meglio et al. 2016 informaron el predominio de la clase de halobacterias en el sedimento Salitral Negro, pero en ese estudio no se encontraron representantes de las otras dos clases. Las clases de Thermoplasmata (con la familia Methanomassiliicoccaceae como el único representante encontrado) y Methanobacteria, muestran la importancia de los procesos de metanogénesis en este entorno.
+Curiosamente, en el estudio de enriquecimiento que se muestra en la Figura 15, se recuperó a través del enasyo de DGGE,microorganismos pertenecientes al grupo conocido como DPANN (Nanohaloarchaea), que no apareció en el estudio metagenómico del sedimento. Esto puede deberse a su proporción minoritaria en esta población y al posterior enriquecimiento en las condiciones estudiadas.
+
+
+Fig. 14: Composición filogenética de las bibliotecas de genes del ARNr 16S. A) diversidad de clases encontradas para arqueas. B) Abundancia de secuencias pertenecientes a cada clase encontrada en el sedimento, para arqueas. C) Diversidad de clases encontradas para bacterias. D) abundancia de secuencias pertenecientes a cada clase encontradas en el sedimento, para bacterias.
+En el caso de las bacterias, la clase KB1 presentó la mayor diversidad de secuencias, como tmbién la mayor abundancia. Esta clase, inicialmente detectada por la secuenciación del gen 16S rARN en la cuenca  de salmuera Kebrit en el Mar Rojo (Eder et al., 1999), consiste en bacterias no cultivadas, normalmente encontradas en ambientes salinos anóxicos (Nigro et al., 2016; Eder et al., 1999, Eder et al. 2001). Dado que es un grupo de microorganismos no cultivados, que en su mayoría carecen de análisis genómico, no presentan una fisiología descripta más allá de algunos aspectos, como el mecanismo de osmoregulación de acumulación de solutos compatibles (Antunes et al., 2011). Acetotermia representó entre las clases de bacterias el 7,41% de la diversidad, aunque en cuanto a abundancia estuvo pobremente representada (0,69%). Esta clase pertenece a un grupo de bacterias acetogénicas, que se ha encontrado en varios sedimentos anóxicos halófilos (Thomas y Ariztegui 2019; Fernández et al.2016; Genderjahn et al.2018). La acetogénesis, junto con la metanogénesis representada por las clases de arqueas descritas anteriormente, pueden ser procesos metabólicos de fijación de carbono presentes en el sedimento de Salitral Negro.
+Las proteobacterias (alfa, delta, gamma) representan el segundo grupo más diverso y abundante (22,12 y 24,41%, respectivamente). El phylum  Proteobacteria es el más abundante de bacterias presentes en salinidades entre 2M y 3M,  con representantes muy diversos en salinidades intermedias, pudiendo incluir entre 7 y 9 o más taxones (Ventosa et al.2015). Están relacionados con diferentes vías metabólicas como la oxidación de tiosulfato / sulfato, reducción de sulfato, degradación de hidrocarburos y denitrificación (Jiang et al. 2007, Gonzalez y Moran 1997, Bruns y Berthe-Corti 1999; Fernandez-Martinez et al. 2003). En Di Meglio et al 2016, se encontraron microorganismos pertenecientes  a las proteobacterias gamma, pero no a las proteobacterias delta y alfa en la solución salina Salitral Negro. Entre las clases que presentaron poca representación en el sedimento (menos del 1%) se encontraron Clostridia, Lentisphaera, Gemm-4 (perteneciente a Gemmatimonadetes), habitantes minoritarios pero comúnmente encontrados en suelos salinos (Valenzuela-Encinas et al. 2007; Shang et al. 2014; Wang et al.2017). Salinibacter, perteneciente a la clase Rhodothermi, había sido encontrado previamente por Di Meglio et al 2016, en mayor abundancia que en este estudio. En este caso, solo representó el 1% de las secuencias.
+Como análisis final, se observaron la diversidad y abundancia en el total de clases encontradas (teniendo en cuenta tanto bacterias como arqueas). Se encontró que la mayor diversidad de secuencias estaba representada por la clase Halobacteria (Fig. 15), seguida por la clase KB1, Thermoplasmata y Archaegobi. La mayor abundancia de secuencias fue presentada por las bacterias de la clase KB1, seguidas por las Halobacterias. Esto está de acuerdo en parte con el estudio anterior sobre Salitral Negro (Di Meglio et al 2016) ya que las bacterias representaron el grupo mayoritario; pero la clase predominante fué KB1 y no Bacteroidetes, aunque se encontró en ambos una alta representación de Proteobacterias.
+Figure 15: Total diversity and abundance of sequences in the sediment (Taking into account bacteria and archaea). A) Diversity. B) Abundance.
+Una vez analizado el inóculo inicial, se estudiaron la diversidad y la abundancia en cada una de las condiciones estudiadas en los ensayos de crecimiento. Para esto, las secuencias del ARNr 16s de las comunidades en cada caso se amplificaron y resolvieron mediante un ensayo DGGE, para conocer la comunidad involucrada en cada caso y cómo difería del inóculo inicial.
+
+Enriquecimiento en respiradores anaeróbicos:
+La reducción de fumarato por metabolismos respiratorios, ya ha sido reportada en ambientes hipersalinos (Thauer 1977; Thauer 1984, Oren 1991, Mata 2005, Oren 2016), y esta considerada como la respiración aneróbica mas extendida entre los microorganismos (Kroger 1992). Por esto, en este trabajo el fumarato fue seleccionado como oxidante para enriquecer en un consorcio estable de microorganismos anaeróbicos a partir del sedimento de la salina Salitral Negro. Se enriquecieron cultivos utilizando fumarato como aceptor de electrones, y lactato o acetato como dadores (anteriormente se mencionó  que se habia descartado la posibilidad de un mecanismo fermentativo con el lactato como sustrato).
+Figura 13: Análisis de DGGE de los genes del ARNr 16S de las comunidades creciendo en Lactato/Acetato- Fumarato, amplificados con primers para arqueas o bacterias (341F y 907r para bacterias, 344F y 907R para arqueas). Los fragmentos de ARNr 16S obtenidos fueron separados en un gradiente desnturalizante de 40%-70%. Calle 1: Comunidad de Arqueas crecidas en Acetato- Fumarato. Calle 2: Comunidad de Arqueas crecidas en Lactato- Fumarato. Calle 3:  Comunidad de bacterias crecidas en Acetato-Fumarato. Calle 4: Comunidad de Bacterias crecidas en Lactato- Fumarato. Las bandas marcadas fueron las que pudieron ser secuenciadas e identificadas.
+
+Con el fin de describir la diversidad biológica en las comunidades seleccionadas, se llevo a cabo una electroforesis en gel desnaturalizante (DGGE) de los fragmentos de rARN16S, amplificados a partir del ADN de los microorganismos pertenecientes a cada comunidad, utilizando primmers para Arquea o Bacteria (Figura 13). Como se ve en la figura, fue posible detectar 9 bandas diferentes pertenecientes a arqueas, y 17 bandas pertenecientes a bacterias. Tres de las arqueas fueron detectadas en cultivos  tanto con acetato como lactato como reductores, otras tres se desarrollaron solo en lactato, y 3 en acetato. Entre las bacterias, solo 3 fueron capaces de crecer en ambos sustratos. En crecimiento solo con acetato fueron detectadas 5 bandas, y 10 en los cultivos con lactato. La mayor diversidad de los cultivos con lactato fue confirmada mediante el cálculo del indice de Shannon- Webber (Tabla 2). La mayor diversidad fue encontrada en bacterias, en contraposición al estudio de Di Meglio et al 2016, realizado en la misma salina en la que si bien había mayor cantidad de bacterias, la diversidad entre las arqueas era mayor. En relación a esto, cabe mencionar que el trabajo citado se llevó a cabo a partir de muestras tomadas directamente de la salina, mientras que en este trabajo se realizó un preenriquecimiento en microorganismos anaeróbicos, por lo que se podría esperar una composición distinta de la comunidad.  Si bien no hay mucha bibliografía que analice la diversidad anaeróbica Arquea/Bacteria en este tipo de ambientes, cabe citar el trabajo de Curtis y Sloan 2004, en que se menciona que la diversidad de microorganismos pertenecientes a las arqueas en reactores anaeròbicos suele ser baja (y en consecuencia, fácilmente reproducible). Justamente,  esto fue lo observado en los complejos microbianos anaeróbicos estudiados en este trabajo.  
+Tabla 2: Indice de Shanon-Weaver para cada condición
+ 
+Acetato
+Lactato
+
+Fumarato
+Sulfato
+Tiosulfato
+Fumarato
+DMSO
+Nitrato
+Electrodo
+Bacteria
+0,54
+0,76
+0,64
+1,19
+0,58
+0,66
+ 
+Archaea
+0,78
+0,34
+ 
+0,94
+ 
+0,46
+0,51
+
+Dada la mayor diversidad encontrada en los cultivos con lactato como reductor(Figura 13, tabla 2), este compuesto fue seleccionado para inocular medios selectivos conteniendo lactato como reductor, y diferentes oxidantes, incluido el electrodo polarizado, para explorar la versatilidad respiratoria presente en la microbiota del sedimento. Para esto, se eligieron aceptores electrónicos cubriendo un amplio rango de potencial redox (Nitrato= 421 mV, DMSO= 160 mV, electrodo polarizado= 91 mV,  Fumarato= 33 mV, Thiosulfato= -189 mV, Sulfato= -217 mV) (Thauer 1977, Cord-Ruwisch 1988, Wissenbach 1990). Como se hizo con los consorcios Acetato/Lactato y fumarato, se extrajo el ADN de cada cultivo, se amplificó la región perteneciente al rARN 16S y se resolvieron los fragmentos por DGGE, para cada condición.En el caso de las bacterias, se obtuvieron bandas para los cultivos crecidos en nitrato, fumarato, tiosulfato y DMSO, no así en el caso del electrodo polarizado. En cuanto a las arqueas, fue posible obtener productos de amplificación a partir de los cultivos en fumarato, nitrato, sulfato y en el electrodo polarizado, no habiendo encontrado bandas en los casos de DMSO y tiosuldfato. Los resultados se muestran en la figura 14. Se encontraron alrededor de 13 bandas relacionadas a las arqueas, y 21 bandas pertenecientes a las amplificaciones con primers para bacterias, al igual que lo observado previamente, la diversidad entre las bacterias fue mayor (tabla 3). La diversidad no estuvo relacionada al potencial del aceptor electrónico (como si paso con los dadores). Algunas bandas fueron encontradas en mas de una condición, indicando cepas que respiran mas de un aceptor. 
+Con el fin de obtener información acerca de la composición de las comunidades en cada condición, las bandas en el gel del ensayo de DGGE fueron escindidas, reamplificadas y enviadas a secuenciar, los resultados se encuentran en la tabla 4, indicando la clasificación de cada microorganismo, relaacionado al reductor y oxidador metabolizado.Se obtuvieron alrededor de 20 secuencias de microorganismos pertenecientes a las arqueas, de los cuales 9 fueron relacionados a microorganismos no cultivados, y 11 pertenecientes a géneros o especies conocidas.. Dentro de las bacterias, se obtuvieron 7 secuencias, de las cuales 4 se relacionaron a microorganismos conocidos, y 3 bacterias no cultivadas.
+Los resultados en la tabla 2 muestran la mayor diversidad en los cultivos con fumarato; esto esta en consecuencia con que el fumarato fué el aceptor electrónico para los cultivos de enriquecimiento. La diversidad en el caso de las arqueas estuvo dominada principalmente por dos géneros, Halorubrum y Haloarcula, representados por 5 y 8 secuencias Hrb.:A5, A6, A8, A9 and A11; Har.: A7, A10, A13, A14, A15, A16, A17 and A19), respectivamente. El crecimiento en fumarato de haloarqueas fué reportado previamente para los casos de Hbt. salinarum, Hfx. volcanii and Hfx. denitrificans, pero este es el primer reporte de casos de Halorubrum y Haloarqueas creciendo en estas condiciones. Intentos previos para crecer Haloarcula marismortui y Har. vallismortis en cultivos puros con fumarato como aceptor de electrones fueron fallidos, sugiriendo alguna posible asociación ecológica de estos microorganismos junto a otros componentes de la comunidad, como se hizo en este trabajo, .
+Dentro de las 11 secuencias relacionadas a microorganismos no cultivados , las secuencias A1, A2, A3 (Figura 15, calle 1) , fueron identificados con el mismo microorganismo no cultivado (Tabla 2), sugiriendo que se trata de especies muy relacionadas. El organismo identificado mas cercano a estas especies, es la Nanohaloarquea Candidatus Nanopetramus CG9. A pesar de su alta homología, la banda A1 fue detectada en cultivos tanto con lactato como con acetato como reductores, mientras que las bandas A2 y A3 fueron encontradas en cultivos solo con acetato, indicando algun tipo de diferencia metabólica entre las cepas. Un estudio de BLAST para conocer la similitud entre estas tres secuencia, muestra que entre las bandas hay un 91% de homología, mientras que entre A2-A1., y A3-A1 se encontró un 83% y 75% de similitud. las Nanohaloarqueas son organismos de genomas pequeños, agrupados en el phylum DPANN, conocido como materia oscura microbiana (Rinke et al 2013).Son microorganismos ubicuos, distribuidos en ambientes salinos de todo el mundo  (Jiang et al. 2007; Ghai et al. 2011; Narasingarao et al. 2011; Wang et al. 2011; Podell et al. 2013; Rinke et al. 2013; Gomariz et al. 2014; Di Meglio et al. 2016; Ventosa et al. 2015 Microbial diversity of hypersaline environments…Rubin et al. 2017, Narasingarao et al., 2012). a pesar de su amplia distribución, solo Candidatus Nnohaloarchaeum antarticus, una nanohaloarquea aeróbica ha podido ser cultivada en condiciones de laboratorio (Hamm 2019). Hasta el  momento, este trabajo es el primer reporte de cultivos anaerobicos anaeróbicos con representyantes de nanohaloarqueas en condiciones de laboratorio.
+La cuarta secuencia obtenida (Figura 13, linea 1, banda A4;y tabla 4), estuvo relacionada  con un  99% de homología a Sporohalobacter lotertii CEJFYE2D como microorganismo más cercano(Abdallah et al 2015). La oxidación de lactato ha sido demostrada en S. lotertii (Oren 2015) , pero la respiración de fumarato no ha sido nunca probada hasta ahora en este microorganismo. Esta cepa también fue capaz de utilizar Nitrato como aceptor final de electrones (Tabla 2).
+La secuencia A18 estuvo relacionada a Halanaeroarchaeum sulfurireducens HSR2 según su similitud. Halanaeroarchaeum es un género dentro de las halobacterias cuyos miembros cultivaods son microorganismos estrictamente anaerobios, que utilizan acetato como dador de electrones y sulfato como aceptor (Messina et al 2016). La oxidacion de acetato en estos micoorganismos se lleva a cabo meduiante la Acetil CoA sintetasa, medinte ciclo de acidos tricarboxilicos. Esto, sumado a la presencia de la enzima fumarato reductasa, indica que eestos microorganismos son capaces de crecer mediante la respiración de fumarato (Figura 15 , Tabla 2).
+Dentro de los representantes bacterianos, las secuencias B1 y B2 estuvieron relacionadas a microorganismos no cultivados con 99%y 96% de homología, respectivamente. La banda 1 tuvo a Halanaerobium prevalens GSL como microorganismo más cercano. La secuencia correspondiente a la banda 6 tuvo 96% de homología con Halanaerobium tuniense  6SANG (Fig. 1, calles 3 y 4, bandas B1, B2 y B5). Estos microorganismos fueron obtenidos en medio líquido como parte de la comunidad enriquecida. Próximamente, se procederá al aislamiento en cultivos puros.
+Algunos de los microorganismos obtenidos pudieron ser asociados a microorganismos conocidos. La banda 3, en la calle 4 de la figura 13, estuvo relacionada a Halobacterium tunisense 6SANG. Esta es una bacteria halófila fermentativa, estrictamente anaeróbica aislada de un lago hipersalino en Túnez (Hedi et al 2009). Esta bacteria no es capaz de crecer en lactato cuando utiliza sulfato, tiosulfato o azufre elemental como aceptor. En este trabajo se demostró que si es capaz de crecer en lactato cuando el aceptor electrónico que utiliza es el fumarato. Las bandas B4 y B7, estuvieron relacionadas a Halanaerobium saccharolyticum (cepas CEJFT1C (99%) y CEJFYE1A (100%). Ambas fueron capaces de crecer  en fumarato, utilizando tanto acetato como lactato como reductores. Halanaerobium saccharolyticum es una bacteria halófila fermentativa, aislada en un lago hipersalino de Crimea. Se reportó que es capaz de crecer fermentando glicerol (Cayol et al., 1994b; Zhilina et al., 1992), y que puede utilizar sulfato como aceptor de electrones, reduciéndolo a sulfuro (Zhilina et al., 1992). Este es el primer estudio que reporta el uso de lactato o acetato como fuente de carbono, y el fumarato como oxidante para este microorganismo.
+La banda B6 estuvo relacionada a Sporohalobacter lortetii CEJFYE2D (96%). Este microorganismo fue aislado por primera vez en el sedimento del mar muerto.Es una bacteria fermentativa anaerobica estricta, formalmente llamada Clostridium lortetii  (Oren 1987). En 2014, Abdallah y col. reportarno que esta cepa es capaz de crecer utilizando fumarato como dador de electrones, entre otros. Sin embargo, este es el primer trbabajo que reporta el uso de esta cepa como aceptor de leectrones en un metabolismo anaeróbico.
+
+
+
+
+
+
+Figura 15: Electroforesis en gradient desnaturalizante (DGGE) de los productos de amplificación del gen del ARNr 16S de la comunidad anaeróbica respiradora de fumarato. Cultivos crecidos en medio con Lactato- Fumarato, fueron repicados a medios con Lactato y diferentes aceptores. Calle 1: Comunidad de arqueas en el sedimento inóculo. Calle 2: Arqueas crecidas en Lactato- Fumarato. Calle 3: Arqueas crecidas en Lactato- Sulfato. Calle 4: Arqueas crecidas en Lactato-Nitrato. Calle 5: Arqueas crecidas en Lactato- Electrodo polarizado. Calle 6: Comunidad de bacterias en el sedimento.  Calle 7: Bacterias crecidas en Lactato- Fumarato. Calle 8: Bacterias crecidas en Lactato- Sulfato. Calle 9: Bacterias crecidas en Lactato- Nitrato. Calle 10: Bacterias crecidas en Lactato- DMSO. Calle 11: Bacterias crecidas en Lactato- Tiosulfato. Microorganismos identificados: : a  Haloarcula sp. TG5 (99% KU051673.1), b Haloarcula sp. LV_13B50 (96% LN649980.1),  c Halorubrum sp. AJ102 (99% HE802582.1), d  Haloarcula sp. MD130-1 (99% LC420514.1), e Halorubrum saccharovorum MLR66 (94% KY411787.1), f Halorubrum saccharovorum MLR66 (100% KY411787.1), g Halorubrum saccharovorum strain MLR66 (100% KY411787.1).
+
+ 
+ 
+OTU
+Nª Acceso 
+Secuencica
+Microorganismo mas cercano (Ident ≥94.5%) (Acc. No.)
+Acetato
+Lactato
+
+
+
+Microorganismo identificado mas cercano (
+fpara microorganismos no cultivados)
+Fumarato
+Sulfato
+Tiosulfato
+Fumarato
+DMSO
+Electrodo
+Nitrato
+A1
+
+>170206-022_A19_A6_907R.ab1 568
+CCGCCACAGGTGCTCCTCTCAGGATTTTAGGA
+TTTCACCCCTACCCTGAGAATAGCCTCGACGCCTTCCGGTCCCTAGCCGG
+TGCATTATCCGCTGCATGTCCATACTTTGACCGCATGGAATTTCACAGCA
+AACTTGCACGGCCGGCTACGAACACTTTAAACCCAATAATAACGACTACC
+ACTTGGGGTTCTGCTATTACCGCGGCGGCGGGCAGCAGTATTGCCCACCC
+CTTGTTCCGGCACCTTCTTACAGTGCAGAAAAGCGGCCTTCCGTTTTGGA
+AGACTGCACTCGGAGTCCCCTTATCGCACGTTAGTGCATTGTAAAGG
+Uncultured archaeon clone BOX1_E8 (96%) ( KU196432.1)
++
+
+
++
+
+
+
+
+
+
+Uncultured Nanohaloarchaeota archaeon isolate DGGE gel band A15 small subunit ribosomal RNA gene, partial sequence (89.46%) (KU760777.1)
+Nanohaloarchaea archaeon SG9, complete genome (88%)(cccccc)
+
+
+
+
+
+
+
+A2
+
+>170206-022_C19_A7_907R.ab1 574
+GCTAGGACTACGCGGGTATCTAATCCGCTTTGCTCCCCTAGCTTTCGTTCCTCACCGTCGG
+ATCCGTACTCGTCGAGCGCTTCCGCCACAGGTGCTCCTCTCAGGATTTTA
+GGATTTCACCCCTACCCTGAGAATAGCCTCGACGCCGTCCGGTCCCTAGC
+CAGTGCAGTATCCGCTGCATGTCCATACGTTGAGCGCATGGATTTCACAG
+CAGACTTGCACGGCCGGCTACGAACACTTTAAACCCAATAATAACGACTA
+CCACTTGGGGTTCTGCTATTACCGCGGCGGCTGGCAGCAGTATTGCCCAC
+CCCTTGTTCCGGCACCTTCTTACAGTGCAGAAAAGCGGCCTTCCGTTTTG
+GAAGACTGCACTCGGAGTCCCCTTATCGCACGTTAGT
+Uncultured archaeon clone BOX1_E8 (98%) ( KU196432.1)
++
+
+
+
+
+
+
+
+
+
+Uncultured Nanohaloarchaeota archaeon isolate DGGE gel band A15 small subunit ribosomal RNA gene, partial sequence (93.62%) (KU760777.1)
+Nanohaloarchaea archaeon SG9, complete genome (88%)(CP012986.1)
+
+
+
+
+
+
+
+A3
+
+>170206-022_G19_A9_907R.ab1 584
+TCCGCTTTGCTCCCCTAGCTTTCGTTCCTCACCGTCGG
+ATCCGTACTCGTCGAGCGCTTCCGCCACAGGTGCTCCTCTCAGGATTTTA
+GGATTTCACCCCTACCCTGAGAATAGCCTCGACGCCTTCCGGTCCCTAGC
+CGGTGCAGTATCCGCTGCATGTCCATACGTTGAGCGCATGGATTTCACAG
+CAGACTTGCACGGCCGGCTACGAACACTTTAAACCCAATAATAACGACTA
+CCACTTGGGGTTCTGCTATTACCGCGGCGGCGGGCAGCAGTATTGCCCAC
+CCCTTGTTCCGGCACCTTCTTACAGTGCAGAAAAGCGGCCTTCCGTTTTG
+GAAGACTGCACTCGGAGTCCCCTTATCGCACGTTAGTGCATTGTAAAGGT
+Uncultured archaeon clone BOX1_E8 (96%) ( KU196432.1)
++
+
+
+
+
+
+
+
+
+
+Uncultured Nanohaloarchaeota archaeon isolate DGGE gel band A15 small subunit ribosomal RNA gene, partial sequence (91.82%) (KU760777.1)
+Nanohaloarchaea archaeon SG9, complete genome (88%)(CP012986.1)
+
+
+
+
+
+
+
+A4
+
+>170206-022_M17_A3_907R.ab1 785
+CCAACACCTAGTATCCAGCGTTTACAGCTAGGACTACCGGG
+GTATCTAATCCCGTTCGCTCCCCTAGCTTTCGTGCCTCACCGTCAGGGTC
+AAGCTAGAGAGCCGCTTTCGCCACTGGTGTTCTTCCTAATATCTACGCAT
+TTCACCGCTACACTAGGAATTCCGCTCTCTTCTCTTGCCCTCAAGTCTGA
+CAGTTTCAAGCGCAGTGTATCAGTTAAGCTGATACATTTCACACTTGACT
+TGCCAGACCGCCGGCGCACCCTTTACGCCCAATGATTCCGGACAACGCTT
+GCTCCCTACGTATTACCGCGGCTGCTGGCA
+Uncultured Halobacteroidaceae (99%) ( DQ386210.1)
++
+
+
++
+
+
+
+
+
+
+Sporohalobacter lortetii strain CEJFYE2D
+(98%)(KU180227.1)
+
+
+
+
+
+
+
+
+A5
+
+GCGGGAGCC
+ACACCTAACGGACATTGTTTACGGCCAGGACTACCCGGGTATCTAATCCG
+GTTCGAGACCCTGGCTTTCGTCCCTCACTGTCGGATCCGTCCTCGCGACG
+TGCTTTCGCCATCGGCGGTCCGTCCAGGATTACGGGATTTCACTCCTACC
+CCGGACGTACCCGTCGCGCCTTCCGGTCCCAAGCCACACAGTTTCCGCCG
+GACGCCCACCCGTTGGGCGGGTGGATTTTCCGATGGACTTGTGCGGCCAG
+CTACGGACGCTTTAGGCCCAATAAAATCGGCCATCACTCGGGCTGCCGGT
+ATTACCGCGGCGGCTGGCACCGGTCTTGCCCAGCCCTTATTCGTACACCT
+CCCTACGGTGTACAAAAGCGAAGGCTCTATGCCTGCGCACTTGGGATTCC
+CTTATCGCACTGTCGTGCAGGGTAAAGGTTTCGCGCCTGCTGCACCCC
+
+Halorubrum sp. AJ102 isolate AJ102 (99%)( HE802582.1)
+
+
+
++
+
+
+
+A6
+
+GCCACACCTAGCAGGCATTGTTTACGGCCAGGACTACCCGGGTATCTA
+ATCCGGTTCGAGACCCTGGCTTTCGTCCCTCACTGTCGGATCCGTCCTCG
+CGACGTGCTTTCGCCATCGGCGGTCCGTCCAGGATTACGGGATTTCACTC
+CTACCCCGGACGTACCCGTCGCGCCTTCCGGTCCCAAGCCACACAGTTTC
+CACCGGACGCCCACCCGTTGGGCGGGTGGATTTTCCGATGGACTTGTGCG
+GCCAGCTACGGACGCTTTAGGCCCAATAAGATCGGCCATCACTCGGGCTG
+CCGGTATTACCGCGGCGGCTGGCACCGGTCTTGCCCAGCCCTTATTCGTA
+CACCTCCCTACGGTGTACAAAAGCGCAGGCTCTATGCCTGCGCACTTGGG
+ATTCCCTTATCGCACTGGCGTGCAGTGTAAAGGTTTCGCGCCT
+
+Halorubrum saccharovorum strain MLR66 (94%)( KY411787.1)
+
++
+
+
+
++
++
+A7
+
+ATCGGTGCTTCACTACGGCACATGCACGTGCTCATGGCGCGTGACATACC
+TAGCGAGCATTGTTTACAGCCAGGACTACCCGGGTATCTAATCCGGTTCG
+AGACCCTGGCTTTCGTCCCTCACTGTCGGGTCCGGCCTCTCGACGTGGTT
+TCCCCATTGGTGGTCCGTCCAGGATTACAGGATTTCACTCCTACCCCGGA
+CGTACCCCTTGAGTCTCTCGGCCCCAAGCTGTGTAGTTTCCACCGGACGC
+CGACCAGTTGAGCTGGTCGATTTCCCAATGGACTTACACAGCAGGCTACG
+GACGCTTTAGGCCCAATAATATCGGCCATCACTTGGACTGCCGGTATTAC
+CGCGGCGGCTGGCACCGGTCTTGCCCAGTCCTTGTTCCTGTACCACCTTA
+CGGTACAAAAAAGCGAGGGCTATATGCCCTCACACTCGGAGTCCCCCTAT
+CGCACTGTCGTGCACTGTA
+
+Haloarcula sp. TG5 16S (99%)( KU051673.1)
+
+
+
+
+
+
++
+A8
+
+TGTTTACAGCCAGGACTACCCGGGTATCTAATC
+CGGTTCGAGACCCTGGCTTTCGTCCCTCACTGTCGGATCCGTCCTCTCGA
+CGTGGTTTCCCCATTGGTGGTCCGTCCAGGATTACGGGATTTCACTCCTA
+CCCCGGACGTACCCCTCGAGTCTTCCGGCCCCAAGCCGCACAGTTTCCAC
+CGGACGCCCACCCGTTGAGCGGGTGGATTTCCCAATGGACTTGTGCGGCC
+AGCTACGGACGCTTTAGGCCCAATAATATCGGCCATCACTTGGACTGCCG
+GTATTACCGCGGCGGCTGGCACCGGTCTTGCCCAGTCCTTGTTCCTGTAC
+CACCTTACGGTACACAAAAGCGAGGGCTATATGCCCTCGCACTCGGAATC
+CCCCTATCGCACTGTCGTGCAGTGTAAAGGTTTCGCGCCTGCT
+
+Uncultured haloarchaeon clone  XKL38 ( 95.83%)(JN714435.1)
+
++
+
+
+
+
++
+
+
+
+Halorubrum sp. strain G16-1 (95%)(MH106556.1)
+
+
+
+
+
+
+
+A9
+
+ACAGCACCCGCTCGTAGCGGGA
+GCCACACCTAGCAGGCATTGTTTACGGCCAGGACTACCCGGGTATCTAAT
+CCGGTTCGAGACCCTGGCTTTCGTCCCTCACTGTCGGATCCGTCCTCGCG
+ACGTGCTTTCGCCATCGGCGGTCCGTCCAGGATTACGGGATTTCACTCCT
+ACCCCGGACGTACCCGTCGCGCCTTCCGGTCCCAAGCCACACAGTTTCCA
+CCGGACGCCCACCCGTTGGGCGGGTGGATTTTCCGATGGACTTGTGCGGC
+CAGCTACGGACGCTTTAGGCCCAATAAGATCGGCCATCACTCGGGCTGCC
+GGTATTACCGCGGCGGCTGGCACCGGTCTTGCCCAGCCCTTATTCGTACA
+CCTCCCTACGGTGTACAAAAGCGCAGGCTCTATGCCTGCGCACTTGGGAT
+TCCCTTATCGCACTGGCGTGCAGTGTAAAGGTTTCGCGCC
+
+Halorubrum saccharovorum strain MLR66 (94%)( KY411787.1)
+
++
+
+
+
++
++
+A10
+
+CGTTTACAGCTAGGACTACCCGGG
+TATCTAATCCGGTTCGAGACCCTAGCTTTCGTCCCTCACCGTCGGGTCCG
+TCTTCCTGAGGTGGTTTCCCCATTGGTGGTCCGTCCAGGATTACAGGATT
+TCACTCCTACCCCGGACGTACCCCTCAGGTCTTCCGGCCCCAAGCCGGAC
+AGTTTCCGCTGGACGCCCACGCGTTGAGCGCGTCGATTTCCCAACGGACT
+TGTCCGGCCGGCTACGGACGCTTTAGGCCCAATAATATCGGCCATCACTT
+GGACTGCCGGTATTACCGCGGCGGCTGGCACCGGTCTTGCCCAGTCCTTG
+TTCCTGTACCACCTTACGGTACAGAAAAGCGAGGGCTATATGCCCTCGCA
+CTCGGAGTCCCCCTATCGCACTGTCGTGCAGTGTAAAGGTTT
+
+Haloarcula sp. strain BT1 (99,76%)(MN134066.1)
+
+
+
+
+
++
+
+A11
+
+GCACATGCAGCACAGCGTACGTAGCC
+GACAGCCACACCTAGCAGAGCATTGTTTACGGCTAGGACTACCCGGGTAT
+CTAATCCGGTTCGAGACCCTGGCTTTCGTCCCTCACTGTCGGATCCGTCT
+TCCCGACGTGCTTTCGCCATCGGCGGTCCGTCCAGGATTACGGGATTTCA
+CTCCTACCCCGGACGTACCCCTCGCGCCTTCCGGTCCCAAGCCACACAGT
+TTCCACCGGACGCCCACCCGTTGGGCGGGTGGATTTTCCGATGGACTTGT
+GCGGCCAGCTACGGACGCTTTAGGCCCAATAATATCGGCCATCACTCGGA
+CTGCCGGTATTACCGCGGCGGCTGGCACCGGTCTTGCCCAGCCCTTATTC
+CTGCACCTCCTTACGGTGCACAAAAGCGAGGGCTCTATGCCTTCGCACTC
+GGAATCCCCTTATCG
+
+Halorubrum sp. strain G16-1 (96,12%)(MH106556.1)
+
+
+
++
+
++
+
+A12
+
+>170206-022_E19_A8_907R.ab1 636
+GCTAGGGCTACTCGGGTATCTAATCCGATTTGTGCTCCTAGCCTTCGTCTCTCACCGTCA
+GACGTGTTTTAGCCGAGCGCTTTCGCCACAGTTGGTCCCCATAGGATGAT
+AAGATTTAACACTTACCCCATGAGTACCCTCGGCTTCCCCCACTCTCAAG
+TCTTCCAGTTTTCGCCGCACGCCCTTGAGTTAAGCCCAAGGATTTCACAG
+CGAACTTAAAAGACCGGCTACAAACTCTTTAGACCCAATATTCATGGACA
+TCACTAGTGCCGCTAGTGTTACCGCGGCGGCTGGCACTAGTCTTACCCAG
+CACTTATTACCTGAAGTAATTTACACTTCAAAAAAGGCAGCGAATTGATG
+ATCCACTACCACTCACAGTTCCCTTATCACACTTTCGTGCATTGTAAAGG
+TTTCGCGCCT
+Uncultured archaeon clone JMYA07_AC07( FJ810526.1) (82.55%)
++
+
+
+
+
+
+
+
+
+
+
+no close match> 80%
+
+
+
+
+
+
+
+A13
+
+AATCCGGTTCGATACCCTGGCTTTCGTCCCTCACCGTCGGATCCG
+TTCTCTCCACGTGCTTTCCCCATTGGTGGTCCTTCCAGGATTACAGGATT
+TCACTCCTACCCCGGAAGTACCCTTTAAGTCTCTCGGCCCCAAGCTGTGT
+AATTTCCACCGGACGGCCACTAGTTGAACTGGTCGATTTCCCAATGAAAT
+TAGCCAGCACGCTACGGACGCTTTAAGCCCAATAATATCGGACATCACTT
+GGACGGTCGGTATTACCGGGGCGGCCGGGACCGGTCTTGCCCAGTCCTTA
+TTCCTGTACCACCTTACGGTGCAGAAAAGCGAGGGTTATATGTCCTCACA
+CTGCAGAGTCCACTTATCGTACTGCCGTGCAGTGTAAAGGTTT
+Haloarcula sp. TG1(96%)( KU051670.1) 
++
++
+
++
++
+
+
+A14
+
+TTTCGTCCCTCACTGTCGGGTC
+CGGTCTCTCAACGTGGTTTCCCCATTGGTGGTCCGTCCAGGATTACAGGA
+TTTCACTCCTACCCCGGACGTACCCCTTGAGTCTCTCGGCCCCAAGCTGT
+GTAGTTTCCACCGGACGCCGACCAGTTGAGCTGGTCGATTTCCCAATGGA
+CTTACACAGCACGCTACGGACGCTTTAGGCCCAATAATATCGGCCATCAC
+TTGGACTGCCGGTATTACCGCGGCGGCTGGCACCGGTCTTGCCCAGTCCT
+TATTCTTGTACCACCTTACGGTACAGAAAAGCGAGGGCTATATGCCCTCA
+CACTCGGAGTCCCCCTATCGCA
+Haloarcula sp. HMC-3(97%)( JX188260.1)
+
+
+
++
+
+
+
+A15
+
+TGCTCAT
+GGCGCGTGACATACCTAGCGAGCATTGTTTACAGCCAGGACTACCCGGGT
+ATCTAATCCGGTTCGAGACCCTGGCTTTCGTCCCTCACTGTCGGGTCCGG
+TCTCTCAACGTGGTTTCCCCATTGGTGGTCCGTCCAGGATTACAGGATTT
+CACTCCTACCCCGGACGTACCCGTTGAGTCTCTCGGCCCCAAGCTGTGTA
+GTTTCCACCGGACGCCGACCAGTTGAGCTGGTCGATTTCCCAATGGACTT
+ACACAGCAGGCTACGGACGCTTTAGGCCCAATAATATCGGCCATCACTTG
+GACTGCCGGTATTACCGCGGCGGCTGGCACCGGTCTTGCCCAGTCCTTAT
+TCCTGTACCACCTTACGGTACAGAAAAGCGAGGGCTATATGCCCTCACAC
+TCGGAGTCCCCCTATCGCACTGTCGTGCAGTGTAA
+Haloarcula sp. SS13-14 (99%)(KJ917665.1)
+
+
+
++
+
+
+
+A16
+
+AAATACCTAACGAGCATTGTTTACAGCGAGGA
+CTACGCGGGTATCTAATCCGGTTCGAGACCCTGGCTTTCGTCCCTCACCG
+TCGGGTCCGGTCTCTCAACGTGCTTTCCCCATTGGTGGTCCGTCCAGGAT
+TACAGGATTTCACTCCTACCCCGGACGTACCCGTTGAGTCTCCCGGCCCC
+AAGCTGTGTAATTTCCACCGGACGTCGACCAGTTGAACTGGTCGATTTCC
+CAATGAACTTACCCGGCAGGCTACGGACGCTTTAGGCCCAATAATATCGG
+ACATCACTTGGACTGTCGGTATTACCGGGGCGGCTGGCACCGGTCTTGCC
+CAGTCCTTATTCCTGTACCACCTTACGGTACAGAAAAGCGAGGCCTATAT
+GCCCTCACACTCGGAGTCCCCCTATCGCACTGCCGTGCAGT
+Uncultured archaeon clone GSP_arch161(96%)( FJ696332.1)
++
+
+
+
+
+
+
+
+
+
+Haloarcula sp. TG1(96%)(KU051670.1)
+
+
+
+
+
+
+
+A17
+
+
+AGTGCTTTCCCCATTGGTGGTCCTCCCAGGATT
+ACAGGATTTCACTCCTACCCCGGAAGTACCCTTTAAGTCTCTCGGCCCCA
+AGCTGTGTAGTTTCCACCGGACGGCCACCAGTTGAACTGGTCGATTTCCC
+AATGAAATTACACAGCACGCTACGGACGCTTTAAGCCCAATAATATCGGA
+CATCACTTGGGACTGTCGGTATTACCGCGGCGGCTGGCACCGGTCTTGCC
+CAGTCCTTATTCCTGTACCACCTTACGGTACAGAAAAGCGAGGGCTATAT
+GCCCTCACACTGGGAGTCCACCT
+?
++
+
+
+
+
+
+
+A18
+
+TTTACAGCCAGGACTACCCGGGTATCTCATCCGGTTCGAGACCCTGGCTTTCGTCCCTCACTGTC
+GGGTCCGTCTTCCTGACGTGCTTTCGCCATTGGCGGTCCGTCCAAGATTA
+CAGGATTTCACTCCTACCCCGGACGTACCCCTCAGGTCTTCCGGCCCCAA
+GCCGGACAGTTTCCGCTGGACGCCCGCCCGTTGAGCGCGCGGATTTCCCA
+ACGGACTTGTCCGGCCAGCTACGGACGCTTTAGGCCCAATAATATCGGCC
+ATCACTTGGGCTGCCGGTATTACCGCGGCGGCTGGCACCGGTCTTGCCCA
+GCCCTTATTCGTGCACCACCTTACGGTGTACAAAAGCGAGGGCTCTATGC
+CCTCGCACTCGGAATTCCCTTATCGCACTGTCGTGCAGTGTAAAGGTTTC
+GCGCCTGCTGCAC
+
+Uncultured archaeon clone ss_030g (98,36%) (AJ969818.1) 
++
+
+
+
+
+
+
+
+
+
+Halanaeroarchaeum sulfurireducens strain HSR2(97.42%)(CP008874.1)
+
+
+
+
+
+
+
+A19
+
+ACCCGGGTATCTAATCCGGTTCGAGACCCTGGCTTTCGTCCCTCACCGTCGGGTCCGTCTTCTTGAG
+GTGCTTTCCCCATTGGCGGTCCGTCCAGGATTACAGGATTTCACTCCTACCCCGGACGTACCCCTCGGGTCTTCCGGCCCCAAGCCGGACAGTTTCCGCT
+GGACGCCCACGCGTTGAGCGCGTGGATTTCCCAACGGACTTGTCCGGCCG
+GCTACGGACGCTTTAGGCCCAATAATATCGGCCATCACTTGGACTGCCGG
+TATTACCGCGGCGGCTGGCACCGGTCTTGCCCAGCCCTTGTTCCTGTACC
+ACCTTACGGTACACAAAAGCGAGGGCTATATGCCCTCGCACTCGGAGTCC
+CCTTATCGCACTGTCGTGCAGTGTAAAGGTTTCGC
+
+Haloarcula sp. ARA4_D05(98%)( KC313023.1)
+
+
+
++
+
+
++
+A20
+
+CCCGGGTATCTAATCCGGTTC
+GAGACCTTGGCTTTCGTCCCTCACCGTCGGATCCGTCCTCCCAAGGCGCT
+TTCGCCATCGGCGGTCCGTCCGGGATTACGGGATTTCACTCCTACCCCGG
+ACGTACCCCCTGCGTCTTCCGGCCCCAAGCCACATGGTTTCCACCGGACC
+TCCACCCGTTGGGCGCGCGGATTTCCCGACGGACCTGTGTGGCCGGCTAC
+GGACGCTTTAGGCCCAATAAAATCGGCCATCACTCGGGCTGCCGGTATTA
+CCGCGGCGGCTGGCACCGGTCTTGCCCAGCCCTTA
+
+Uncultured archaeon clone 3-07A (95.46%) (EF459703.1)
+
+
+
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabla 2: Secuencias de arqueas y bacterias obtenidas en este estudio mediante los diferentes ensayos de DGGE
+
+
+
+
+
+
+Discusión:
+En esta sección de la presente tesis, se analizó la composición de la comunidad anaeróbica de respiradores de fumarato, con diferentes dadores y aceptores. Para conocer el punto de partida, inicialmente se hizo un análisis metagenómico del sedimento utilizado como inóculo. 
+En esta sección de la presente tesis, se analizó la composición de la comunidad anaeróbica de respiradores de fumarato, con diferentes dadores y aceptores. Para conocer el punto de partida, inicialmente se hizo un análisis metagenómico del sedimento utilizado como inóculo. En particular se vió una predominancia del reino Archaea en cuanto a la diversidad de clases encontradas, pero una mayor abundancia de bacterias. El precedente inmediato para comparar este estudio, es el trabajo realizado por Di Meglio 2016, en donde se analizó por DGGE la composición microbiológica de Salitral Negro. Los estudios presentados en esta tesis, están en concordancia con el trabajo d Di Meglio en ese aspecto. Como en la mayor parte de los estudios realizados en este tipo de ambientes, la clase más representada de Arqueas fueron las Halobacterias. En general, esta suele ser la clase predominante de Arqueas en este tipo de ambientes (Benlloch2002; Burns 2004, Ventosa 2015). También hubo una fuerte representación (alrededor del 20%) de arqueas relacionadas a metabolismos metanogénicos (Methanobacteria y Thermoplasmata) en particular, todas las secuencias recuperadas de Thermoplasmata, estaban relacionadas con la familia Methanomassiliicoccaceae, del metabolismo metanogénico) (Lino  2013, Borrel  2013). Esto indica la importancia de los procesos de metanogénesis en este entorno. Respecto al estudio realizado por  Di Melio 2016, el grupo dominante entre las arqueas fue el mismo (Halobacterias). Entre las bacterias, en cambio, el análisis del sedimento reveló la predominancia de la clase KB1. Esto está de acuerdo con diversos estudios hechos en ambientes salinos (Cono 2011, Yakimov 2015, van der Wielen 2005, Daffonchio 2006, Yakimov 2007, Borin 2009, Yakimov 2013), pero no con el realizado en Salitral Negro previamente, en donde encontraron predominancia de Bacteroidetes. Esto puede deberse a la diferencia en las técnicas utilizadas en ambos estudios.
+
+Respecto a los enriquecimientos en diferentes respiradores, lo primero que se hizo fue variar el dador de electrones manteniendo un aceptor fijo, el fumarato. Es sabido que la diferencia de potencial entre dadores y aceptores de electrones, es usada para la fosforilación de ADP, formando ATP (Thauer 1977). En este marco, la diferencia de potencial entre el Lactato y fumarato es mayor a la que presentan acetato y fumarato. Esto puede explicar la menor diversidad encontrada en la comunidad cultivada en medio con Acetato/Fumarato, respecto a Lactato/Fumarato, ya que la diferencia en el índice utilizado es notoria tanto como para arqueas como para bacterias. 
+Comparando los dos dominios, las bacterias presentaron mayor diversidad que las arqueas. Esto en principio parecería contradecir las afirmaciones de que en los ambientes halófilos extremos, el grupo que predomina es el de arqueas (Anton 1999; Maturrano 2006; Jiang 2007; Mutlu 2008; Luque 2012). Sin embargo, el trabajo publicado por Di Meglio 2016, esta de acuerdo con esta conclusión en el caso particular de Salitral Negro, en verano, que fue la estación en que se tomaron las muestras.
+Entre los microorganismos detectados, llama la atención el caso de la clase Nanohaloarchaea. Estos microorganismos detamañppequeño, forman parte de lo que se conoce como “materia oscura microbiana” (Rinke 2013). Son microorganismos que son abundantes en estos ambientes por diferentes estudios metagenómicos, pero no han sido cultivados (Jiang et al. 2007; Ghai et al. 2011; Narasingarao et al. 2011; Wang et al. 2011; Podell et al. 2013; Rinke et al. 2013; Gomariz et al. 2014). Este grupo en particular, ha sido reportado en Salitral Negro en el trabajo de Di Meglio 2016. En este trabajo, al utilizar técnicas dependientes de cultivo, pudimos cultivar este tipo de microorganismos, que pemanecian relegados a estudios metagenómicos. El hecho de tenerlos en en comunidades en medio líquido permite la posibilidad de un estudio mas profundo de sus características.
+La metodología utilizada, a parte de detectar microorganismos no cultivados en las condiciones estudiadas, permitió detectar nuevas posibilidades metabólicas de microorganismos descriptos anteriormente. En el caso de Halanaerobaculum tunisiense, se describió que no es capaz de utilizar lactato como dador de electrones (Hedi 2009). En ese trabajo, utilizan dadores de muy bajo potencial, como son sulfato, tiosulfato y azufre elemental, por lo que la imposibilidad de oxidar lactato puede deberse a que  con eso aceptores, no pueda extraer la energía necesaria. En este trabajo, se detectó en un medio con fumarato como aceptor, un compuesto mas favorables respecto a los utilizados en Hedi 2009. En el trabajo citado, también se refieern la imposibilidad de este microorganismo de utilizar fumarato, pero como dador de electrones. Por lo que en esta tesis se han detectado tanto la posibilidad de Halanaerobaculum tunisiense de oxidar lactato, como la de respirar fumarato.
+Otro de los microorganismos detectados, Halanaerobium saccharolyticum, fue capaz de respirar fumarato, tanto con acetato como con lactato cediendo electrones. Esta reportado el crecimiento respirando azufre elemental y por fermentación de glicerol (Cayol et al., 1994b; Zhilina et al., 1992), pero no se ha descripto hatas ahora el crecimiento en las condiciones estudiadas en el presete trabjo.
+Sporohalobacter lortetii no ha sido crecida utilizando fumarato como aceptor de electrones. Si se estudió su capacidad de crecer usando fumarato como reductor Abdallah 2014, pero la respiración de fumarato descripta en este trabajo en Abdallah en este microorganismo también resulta novedosa.
+Halorubrum saccharovorum MLR66 fue detectada en los cultivos con sulfato como aceptor,pero también en los cultivos con fumarato, nitrato y en el cultivo electrogénico. Esta cepa fué aislada en la Bahia de San Francisco. Es una cepa edscripta como respiradora de sulfato y nitrato, capaz de crecer en una amplia variedad de carbohidratos (Tomlinson and Hochstein 1976). A su versatilidad en cuanto a fuentes de energía, evidentemente se suma la posibilidad de respirar diferentes compuestos, incluso un electrodo polarizado, como se ha descripto en el presente trabajo.
+Sumandose a la versatilidad respiratoria encontrada en Halorubrum saccharovorum, hemos encontrado microorganimos relacionados al género Haloarcula en 4 de las 7 condiciones estudiadas, sumado esto a las especies descriptas pertenecientes a  este géneros capaces de crecer en DMSO (Oren 1991), es el género que presenta mas amplitud metabólica de los abordados en esta tesis. 
+
+
+
+
+
+Conclusión:
+En este capítulo se abordó la descripción de la microbiota anaeróbica encontrada en los ensayos de DGGE. El hallazgo mas novedoso tiene que ver con la identificación de dos microorganismos capaces de crecer en un reactor electroquímico, presumiblemente respirando un electrodo polarizado. Esta condición no ha sido aún descripta para el caso de micoorganismos halófilos.
+Se encontraron también nuevos metabolismos respiratorios entre los microorganismos descriptos, así como un gran número de microorganismos no cultivados previamente, formando parte de las comunidades crecidas en los diferentes cultivos. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capítulo 3
+
+Crecimiento y osmoregulación en una comunidad de microorganismos halófilos respiradores de fumarato:
+
+Metabolismo y aspectos termodinámicos
+En la introducción general de la presente tesis, se introdujeron conceptos y nociones acerca del costo de vida en ambientes halófilos. En Oren 2011, se postuló que existen dos aspectos principales que determinan si es posible para un microorganismo heterótrofo, un estilo de vida halófilo:
+    1- La energía obtenida en el metabolismo desasimilatorio
+    2- El mecanismo de regulación osmótica utilizado
+La energía obtenida en el proceso desasimilatorio, está determinada tanto por el potencial  de dadores y aceptores de electrones, como por la capacidad metabólica de los microorganismos de utilizarlos para formar ATP (Thauer 1977). En microorganismos halófilos en particular, la energía obtenida de los procesos desasimilatorios es un factor limitante para poder  habitar ambientes salinos (Oren 1991, 1999, 2008, 2011). Esta demanda de enegía, hace que haya procesos respiratorios que no puedan llevarse a cabo en esas condiciones (Oren 2011). Por ej, procesos que son posibles en ambientes con baja salinidad, no lo son en condiciones halófilas; como por ej, la oxidación de acetato acoplada a la reucción de sulfato, dado que la energía entregada por las posibles reacciónes metabólicas no es suficiente frente a las demandas del medio (Oren 2011, Oren 1999). 
+
+
+
+
+Osmoregulción:
+Dado que las membranas celulares son pemeables al agua, no pueden mantener en su citoplasma una mayor concentración de agua respecto al medio circundante; esto llevaría a una pérdida de agua desde el citoplásma al medio (Brown 1990). Con la posible excepción del Orden Halobacteriales (Walsby 1971), todos los microorganismos mantienen su presión de turgencia (Oren 1999).  Para hacer frente al estres osmótico inherente a la vida en ambientes con altas concentraciones de sales, los micoorganismos deben mantener esta presion; esto se logra con un citoplasma hiperosmótico. Para lograr esto, presentan dos estrategias: 1) Acumulación de iones en el citoplasma y 2) Síntesis de solutos orgánicos compatibles (Oren 1999). La primera implica la acumulación de iones potasioy cloro. Esta estrategia requiere adaptaciones en la maquiaria enzimática a la presencia de sal, para que las proteónas puedan mantener su conformación y actividad a concentraciones cercanas a la saturación (Lanyi 1999). Como se dijo anteriormente, el proteoma de estos microorganismos es marcadamente ácido, y sus proteínas se desnaturalizan en medios con bajas concentraciones de sal. Aunque se ha calculado que esta estrategia tiene poco costo energético, comparada a las células que tienen que sintetizar grandes cantidades de solutos orgánicos (Oren 1991), no es la más extendida entre los diferentes grupos filogenéticos y fisiológicos de microorganismos halófilos (Se encuentra presente en Bacteroidetes, con Salinibacter ruber; en Firmicutes y Hlobcteriaceae) (Oren 2008).
+La segunda estrategia mensionada, es la mas extendida en la naturaleza. Está basada en la biosíntesis y/o cumulción de solutos orgánicos compatibles. Las células que usan esta estrategia, excluyen sal de sus citoplasmas tanto como sea posible. Las altas concentraciones de solutos orgánicos no interfieren con la actividad enzimática. Los organismos que utilizan esta estrategia,a diferencia de los antes mensionados que dependen de altas concentraciones de sal, pueden adaptarse a un rango sorprendentemente amplio de salinidad (Ventosa 1998, Oren 2008). Esta estrategia esta ampliamente distribuida entre microorganismos de los phylums Firmicutes, Proteobacteria, Cyanobacteria, Methanosarcina (Oren 2008).
+Han sido detectados un gran número de solutos orgánicos en microorganismos halófilos y halotolerantes (Galinski, 1995); entre los identificados como osmolitos estan el glycerol (en el alga verde Dunianella, asi como en algunos miembros del reino Fungi)  sacarosa y threalosa (encontrado en bacterias no halófilas o levemente halófilas y en algunas cyanobacterias), glucosilglicerol (hallado en cyanobacterias de salinidad intermedia y en la bacteria Pseudomonas mendocina) , glicina betaina (producida por algunas bacterias halófilas anoxigénicas fotosintéticas, cyanobacterias , bacterias heterótrofas y arqueas metanogénicas) , ectoina (sintetizado por algunas bacterias halófilas heterótrofas),  entre otros (Ben-Amotz 1973, 1981; Adler 1985, Brown 1990;  van Laere 1987;  Mikkat 1997, 1984;  Reed 1984; Pocard 1994; Galinski 1993, 1995, 1994; Truper 1990;  Kevbrina 1992,; Koops 1990;  Ventosa 1998; Lai 1992, 1991; Roberts 1992; Robertson 1990) . 
+Muchos microorganismos que utilizan esta estrategia, tienen proteinas transportadoras en la membrana que permiten tomarlos delmedio los solutos compatibles utilizados como osmolitos; esto es energeticamente mas favorable respecto a la síntesis de novo (Oren 1999, Moore 1987). Han sido enontrados transportadores para diferentes compuestos utilizados como osmolitos en diferentes microorganismos. La presencia de estos transportadores para estos compuestos osmóticos, reduce la energía dirigida a la síntesis, cuando pueden ser tomados del medio (Peters 1992, Hong 1997, Proctor 1997,  Mikkat 1997,  Hagemann 1997).
+Las características de crecimiento de las arqueas no han sido estudiadas en profundidad hasta el momento (Matthew  2015). Uno de los pocos estudios al respecto fue realizado por Robinson 2015, en donde estudió la cinética de crecimiento de especies relacionadas de la familia Haloárcula. No hay trabajos que relacionen la cinética de crecimiento a la cantidad de energía otorgada por los procesos metabólicos o mecanismos osmoreguladores. 
+En el presente capítulo, se estudió el crecimiento de una comunidad microorganismos halófilos respiradores de fumarato, en medios con diferentes aceptores electrónicos y, por lo tanto, diferente energía a partir de los procesos de respiración. Adicionalmente, se estudiaron las estrategias de osmoregulación y de oxidación del sustrato en cada caso.
+
+Oxidación del sustrato:
+En cuanto a la oxidación del sustrato elegido, se han descripto dos vías catabólicas para este sustrato, que entregan diferente energía: la oxidación completa y la oxidación incompleta. 
+En la oxidación incompleta, el lactato es oxidado a piruvato, acoplada a la reducción de NAD+ mediante una enzima unida a membrana, la Lactato deshidrogenasa (Thauer 1977). Dado que el par Lactato/Piruvato tiene un mayor potencial que el par NADH/NAD+ (-190mV vs -320mV respectivamente); recientemente fue propuesto que la oxidación, junto con la reducción del NAD+, esta acoplada a la reducción de ferredoxina (Weghoff 2014). Un grupo de bacterias, entre los cuales se encuentran algunas acetogénicas y reductoras de sulfato , puede oxidar lactato sin lactato deshidrogenasa, pero el proceso no ha sido descripto hasta el momento. Luego de pasar por piruvato, l oxidación continúa a Acetyl-CoA,y luego a acetato (Thauer 1977, Rabus 2015). Así, el producto de la oxidación incompleta del lactato son el acetato y bicarbonato (Oren 2011).
+Los oxidadores completos pueden oxidar el lactato, completamente a CO2 (Oren 1999). La oxidación incompleta del lactato entrega mucha más energía que la completa. Por ej, para el caso de la oxidación de lactato acoplada a la reducción de sulfato, la oxidación incompleta del lactato tiene asociado un DG ° 'de -160kJ, comparado a -85.1kJ de la oxidación completa (Oren 2011)
+
+
+Figura 18: mecanismo de oxidación incompleta de lactato, asociado a las reacciones de reducción consideradas en el presente trabajo.
+
+En el presente capítulo, se estudiaron las características descriptas previamente (Osmoregulación, crecimiento y oxidación de sustrato), con el objetivo de describir los caminos respiratorios posibles (determinados por los diferentes aceptores electrónicos propuestos) en las condiciones extremas que habitan los microorganismos hiperhalófilos, según los mecanismos de osmoregulación y oxidación empleados.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Materiales y métodos:
+
+Condiciones de crecimiento:
+El medio seleccionado fue medio SW con diferentes aceptores electrónicos, listados en la sección “Materiales y métodos” del capítulo 2.
+
+Crecimiento y tiempo de duplicación:
+El crecimiento se midió tomando muestras periódicas de 1ml y midiendo DO600nm para los medios con cada aceptor de electrones. A partir de la curva de crecimiento, se estableció el tiempo de duplicación mediante la pendiente de la fase exponencial, en escala logarítmica. 
+Todos los experimentos de crecimiento fueron realizados, al menos,  por triplicado.
+
+Medición de osmolitos:
+Solutos compatibles:
+Como solutos compaitbles, midieron la presencia de Prolina y Glicina-Betaína. Para esto, se centrifugaron 10 alícuotas de 1ml de medio de cultivo (10ml para la medición de prolina y 10ml para la medición de glicina betaína) y se centrifugaron a 8000rpm por 10 minutos. El pellet celular fue resuspendido en etanol 90% e incubado a 50°C durante 10´. Se volvió a centrifugar a 8000rpm por 10 minutos para decantar las células no lisadas. El sobrenadante se guardó, y se volvió a repetir el procedimiento de lisdo 2 veces más. A continuación, se hizo un pool con los sobrenadantes obtenidos y se evaporó el etanol. Las muestras se resuspendieron 200uL de agua destilada para su posterior análisis por HPLC (Instituto de Investigaciones Biológicas - Universidad Nacional de Mar del Plata- CONICET).
+Para realizar los ensayos de HPLC se utilizó un Cromatógrafo Líquido de Alta Resolución (HPLC) marca SHIMADZU modelo Prominence, software LCsolution, con las siguientes características:
+- Módulo de comunicación: CBM-20A.
+- Detector de arreglo de diodos: SPD-M20A.
+- Bombas cuaternarias de baja presión: LC-20AT.
+- Desgasificador on-line: DGU-20A5 .
+- Horno guardacolumna: CTO-10AS vp.
+- Octadecilsilano (C18) de 250Lx4.6; tamaño de partícula 4,6 um; marca SHIMADZU
+Análisis de Prolina:
+Fase móvil: Solvente A: H2O; Solvente B: 40 mM Fosfato dibásico de K con 0,1% H 3PO4 ; Solvente C: CH3CN; Solvente D: MeOH.
+Análisis de Glicina- Beteína:
+Las condiciones que variaron respecto al método utilizado para medir Prolina, se listan a continuación:
+Columna Aminex HPX-87H, 300 x 7,8 mm.
+Fase móvil: Solvente A: H2O, Solvente C: CH3CN.
+
+Potasio intracelular: 
+Para medir el potasio intracelular acumulado, se centrifugaron cultivos en fase estacionaria para obtener el pellet celular. Se descarto el sobrenadante, y el pellet fue lavado 2 veces con NaCl 8mM con el fin de remover el K extracelular. Las células fueron lisadas con 5ml de ácido nítrico 1%(v/v) y sonicadas por 3 ciclos de 30 segundos. Para la detección de K en las muestras, se utilizó ICP-MS (Centro de Estudios Fotosintéticos y Bioquímicos CEFOBI, Universidad Nacional de Rosario).
+En las mediciones de solutos intracelulares, estas fueron normalizadas respecto a la DO600nm de cada cultivo
+
+Medición de ácidos orgánicos de cadena corta (Acetato/Lactato) en el medio:
+
+Para medir la disminución en el dador de electrones utilizado (Lactato) y la identificación del tipo de oxidación, por la aparición de acetato en el medio, se tomaron muestras de los cultivos en la fase de crecimiento exponencial. Las muestras fueron centrifuagadas a 8000rpm por 10 minutos, y se tomó una muestra del sobrenadante, para su análisis posterior por HPLC.
+El análisis de HPLC se llevó a cabo en el equipo descripto previamente, con las siguientes modificaciones:
+- Columna Aminex HPX-87H, 300 x 7,8 mm.
+- Fase móvil: Solvente B: 100% 0,008N de H2SO4
+
+
+
+
+
+
+
+
+Resultados:
+
+Crecimiento con aceptores a diferentes potenciales:
+Para llevar a cabo este estudio, se partió de una comunidad enriquecida en microorganismos hiperhalófilos respiradores de fumarato (como se explicó previamente). Con el objetivo de determinar la influencia del potencial redox del aceptor electrónico en las comunidades bajo estudio, se determino la DO600nm (para los cultivos con Nitrato, DMSO, Fumarato,Tiosulfato y sulfato), o la corriente (para el caso en que el aceptor fue un electrodo polarizado), hasta la estabilización de los valores utilizados para determinar el crecimiento. Así, el crecimiento fue determinado manteniendo fijo el potencial del dador electrónico (Lactato) y variando los aceptores en un potencial de entre -218mV a 421mv (Nitrato= 421mV, Electrodo polarizado: 300mV, DMSO= 160mV, Fumarato= 33mV, Tiosulfato= -189mV, Sulfato= -217mV) (Thauer 1977, Cord-Ruwisch 1988, Wissenbach 1990). Para evaluar el crecimiento, se obtuvieron las curvas de crecimiento, y se determinó el tiempo de duplicación . La figura 19 presenta las curvas de crecimiento, y la tabla 3, los parámetros derivados de las curvas, junto con el potencial redox de cada aceptor.
+
+Table 3: Tiempo de duplicación y DO máxima para las comunidades cultivadas en medio con lactato y diferentes acepores de electrones. El potencial redox del electrodo fue determinado mediante el perfil voltametrico 
+Aceptor de e-
+E0’(mV)(vs SHE)
+Tiempo de duplicacion (dia-1)
+OD600max
+Nitrato
+421
+1,36
+0,8
+DMSO
+160
+2,17
+0,3
+Electrodo
+91
+6,12
+ND
+Fumarato
+33
+4,88
+0,8
+Thiosulfato
+-189
+3,06
+0,25
+Sulfato
+-217
+3,03
+0,23
+
+
+
+
+Figura 19: Curvas de crecimiento de microorganismos hiperhalófilos, en medio mínimo con Lactato como dador de electrones, y Nitrato, DMSO, Fumarato, Tiosulfato o sulfato como aceptor de electrones.
+Como se puede ver en la figura 19, todos los oxidantes fueron utilizados para el crecimiento en estas condiciones, mostrando la gran versatilidad de la comunidad en estudio. A pesar de la baja concentración de nitrato en las salinas, los cultivos que utilizaron este compuesto como aceptor fueron los que mostraron mayor crecimiento (Hochstein y Tomlison 1985), alcanzando una DO600 de alrededor de 0,8 luego de 4 dia de crecimiento, a un tiempo de duplicación de 1,35 dia-1 (Tabla 3). Los crecidos en fumarato alcanzaron una DO600 similar, pero con un tiempo de duplicación mucho más alto (4,9 dia-1). El único trabajo en arqueas que estudia el crecimiento mediante la respiración de fumarato es el trabajo de Oren 1991, en Haloferax volcanii. En el trabajo citado, la fuente de carbono es compleja. Sin embargo, la cinética de crecimiento fue similar a la obtenida en este trabajo, indicando que la cinética de crecimiento lenta obtenida, puede ser una característica del crecimiento con lactato. La capacidad de los microorganismos halófilos de crecer en DMSO como aceptor de electrones, también ha sido reportada previamente (Oren 1990). En este trabajo, en DMSO se obtuvo un crecimiento que alcanzó una DO600 de 0,3, con una tasa de duplicación de 2,17 dia-1 (un crecimiento mas acelerado, pero menor en cuanto a biomasa, comparado al fumarato). Los cultivos crecidos en sulfato y tiosulfato mostraron también un crecimiento máximo bajo, pero nuevamente, el tiempo de duplicación fue mayor al que se pudo ver en fumarato, algo no reportado hasta el momento.
+Como se muestra en la tabla 3, el tiempo de duplicación medio de los cultivos estudiados, disminuye a medida que aumenta el potencial del aceptor electrónico, excepto en los casos del fumarato y el electrodo polarizado, que presentan los tiempos de duplicación más elevados, a pesar de tener potenciales positivos. El potencial indicado para el caso del electrodo polarizado, corresponde al potencial correspondiente a la señal detectada en la voltametría cíclica en los cultivos crecidos respirando el electrodo polarizado. Esta señal estuvo caracterizada por un pico de reducción a -0,1V, con un pico de oxidación a 0,15V como contraparte. Se presume que estos picos corresponden al par redox involucrado en la interacción con el electrodo en el proceso respiratorio en estos cultivos. Por otro lado, en los cultivos electroactivos no se vió un incremento de la DO planctónica a medida que aumentaba la corriente, esto puede ser otro indicador de que la comunidad estudiada creció en asociación con el electrodo.
+Además de la variables termodinámicas en el crecimiento y teniendo en cuenta el trabajo de Robinson et al 2005, en donde se reporta una varianza del 40% respecto a los tiempos de duplicación de microorganismos pertenecientes a la misma familia a 43ºC, los resultados presentados en la tabla 3 y la figura 19 pueden estar influenciados por propiedades intrínsecas a caad comunidad.
+Para aclarar la relación entre el tiempo de duplicación y el potencial de cada aceptor electrónico en el medio, ambos parámetros fueron combinados ç8dO600nm max/Td) (Figura 21). Como era esperable, los menores valores se obtuvieron para los casos del sulfato y el tiosulfato. El DMSO y el fumarato, presentaron valores intermedios, dados la gran biomasa alcanzada por los cultivos en fumarato, y el corto tiempo de duplicación en comparación, de los cultivos creciendo en DMSO. Finalmente, los cultivos que fueron capaces d erecer reduciendo nitrato, fueron claramente los que tuvieron una mejor performance en el crecimiento.
+
+Figura 21: relación entre crecimiento y potencial. El tiempo de duplicación y el crecimiento máximo fueron determinados en cada caso y se estableció una relación. La relación maxDO600nm/Td fue comparada con los potenciales redox de los aceptores electrónicos.
+Se sabe que el crecimiento tiene una alta correlación con la energía disponible para la síntesis de ATP. Esta energía puede ser calculada en base a la diferencia de potencial entre el donador y el aceptor de electrones  (Thauer 1977). Asumiendo un mecanismo de transferencia de ocho electrones (n= 2), se requiere una diferencia de potencial de aproximadamente 250mv para permitir la síntesis de una molécula de ATP (1 ATP)a partir de ADP y Pi (AG' = -nFAE' = 2 x 23.06 x 0.25 kcal/mol = -11.5 kcal/mol). La tabla 4 muestra las reacciones globales para cada caso estudiado en este trabajo, junto a los rendimientos en base a los potenciales de cada aceptor electrónico, a partir de la oxidación de lactato, si toda la energía producida estuviera dirigida a la formación de ATP.
+
+Tabla 4: Reacciones redox involucradas en las comunidades bajo estudio, junto a su ganancia energética y obtención de ATP. 
+Electron acceptor
+Redox reaction
+ΔG° (KJ)
+ATP produced
+Nitrate
+NO3(-) +H ---> NO2(-) + H2O
+-322,2
+7,3
+DMSO
+C2H6SO + 2H+ ---> C2H6S + H2O
+-221,5
+5,0
+Fumarate
+C4H4O4+ H2 ----> C4H6O4(-2)
+-186,6
+4,2
+Thiosulphate
+S2O3(-2) + 4H2----> 2HS(-) + 3H2O
+-176,3
+4,0
+Sulphate
+SO4(-2) + H+ + 4H2 ----> HS(-) + 4H2O
+-156,1
+3,5
+Electrode
+NAD(+)+H(+)--->NADH
+-100,34
+2,28
+
+Como se muestra en la figura 21, el Nitrato rinde entre 32% y 50% mas que los otros aceptores electrónicos. El DMSO, en cambio, rinde alrededor de 15% mas que el fumarato, pero alcanza una menor cantidad de biomasa. Por otro  lado, el rendimiento energético de los cultivos en fumarato es similar al que se obtiene para el tiosulfato, pero las comunidades creciendo en fumarato presentaron un crecimiento mucho mayor. LA reducción de fumarato tiene lugar por la reducción del succinato por el fumarato, en una reacción catalizada por la enzima fumarato reductasa (Iverson 1999, Kroger 1992). En relación a este punto, cabe mencionar el trabajo de Oren 1991, en el que el crecimiento en fumarato produce una acumulación de succinato en el medio de cultivo. Si este fuera el caso aquí, la oxidación de succinato por parte de algunos miembros de la comunidad, podría explicar el mayor crecimiento alcanzado en estos cultivos, respecto al DMSO, a pesar de presentar un menor potencial redox. Se han encontrado transportadores de membrana de succinato en varios microorganismos halófilos, como en cepas de Halobacterium, Haloarcula y Halococus (Plakunov 1984; Zvyagintseva 1984), y la utilización de este compuesto como fuente de energía ha sido demostrada en Haloferax volcanii, Halobacterium saccharovorum, Haloarcula vallismortis y otros hiperhalofilos (Kauri, 1990). Teniendo en cuenta esto, se puede ver en la figura 19 y en la tabla 3, que a pesar del mayor crecimiento máximo en fumarato, el tiempo de duplicación fue de los más bajos. Esto sugiere que podría darse la utilización de energía en pasos, cómo se espera en el crecimiento a partir de metabolitos secundarios en cultivos mixtos. Estos datos, muestran la posible utilización de una vía de obtención de energía a partir de succinato, en los cultivos con fumarato como aceptor de electrones.
+El rendimiento de los cultivos con lactato/sulfato, fué similar al de los cultivos con lactato/tiosulfato, como dadores y aceptores de electrones (Figura 21), a pesar de la mayor cantidad de energía teórica provista por la respiración de tiosulfato. Se han obtenido resultados similares en el caso de D. desulfuricans (Badziong and Thauer 1978), sugiriendo un complejo balance metabólico para explotar la posibilidad de obtener energía del tiosulfato.
+De acuerdo a lo expuesto en la tabla 4, la cantidad de energía disponible para el crecimiento respirando un electrodo polarizado, es similar a la obtenida por reducción de fumarato o tiosulfato. LA reversibilidad de la respuesta electroquímica que se puede ver en el ensayo de voltametría cíclica, indica la comunicación eficiente entre las células y el electrodo (Figura 11). Sin embargo, el crecimiento fue muy limitado en los reactores electroquímicos, y fue inferior a la cantidad requerida para la extracción de biomasa de electrodos y posterior cuantificación. La causa de la imposibilidad de crecimiento masivo se desconoce, pero puede depender de la comunicación eléctrica imperfecta entre las células y la imposibilidad de formar biopelículas conductoras, lo que limita el crecimiento a una monocapa de células unidas al electrodo.
+
+Acumulación de solutos intracelulares:
+Una vez que se estudiaron las dinámicas de crecimiento en los diferentes compuestos, se abordó el análisis de las condiciones de oxidación y osmoregulación  presentes en cada caso. En el caso de los mecanismos de osmoregulación, se abordaron en la introducción del presente capítulo los dos mecanismos principales, y sus implicancias energéticas. Como hipótesis se planteó que aquellas condiciones de crecimiento menos favorables, como son respiración de sulfato o tiosulfato por ejemplo, presentarían mecanismos de osmoregulación de menor costo energético, como es el de acumulación de K+ o “salt in”. 
+Se compararon estas dos estrategias en tres condiciones, comparando  entre un dador electrónico fijo y dos aceptores de diferente potencial (Lactato/DMSO vs Lactato/Nitrato), y entre dos dadores de diferente potencial y un aceptor fijo (Lactato/Nitrato vs Acetato/Nitrato) (Figura 22).  
+Los solutos compatibles tenidos en cuenta fueron Glicina Betaína y Prolina. Para la presencia del mecanismo “salt in”, se midió potasio intracelular.
+
+Figura 22: Medición de solutos intracelulares en diferentes condiciones, normalizados según la DO600nm del cultivo. Se lisaron células en fase exponencial y se extrajeron y midieron los solutos por diferentes metodologías (descriptas para cada caso en la sección “Materiales y métodos del capítulo”).
+Como se ve en la figura 22, cuando se mantuvo fijo el dador de electrones y se varió el aceptor, hubo una clara diferencia en la acumulación de potasio. En el caso menos favorable energéticamente (como se vio en la sección anterior, los cultivos con nitrato como aceptor de electrones obtuvieron mucho mayor rendimiento en el crecimiento respecto al DMSO), la estrategia tipo “salt in” estuvo más representada en la comunidad que en el caso del Nitrato. En los cultivos con Nitrato la acumulación de potasio fue baja.
+Cuando se mantuvo fijo el aceptor y se varió el dador (Acetato o Lactato), la mayor acumulación de potasio se vio en los cultivos de condición menos favorable (Acetato/Nitrato), como era esperable dado el menor costo energético de esa estrategia.
+En cuanto a los solutos compatibles, no se detectó prácticamente acumulación de prolina en ninguno de los casos. A diferencia de esto, si hubo una importante acumulación de Glicina-Betaína.  Nuevamente, la acumulación de Glicina- Betaína en los casos menos favorables  fue mucho mayor, comparando nuevamente Lac/Nit Vs Lac DMSO y Acet/Nit Vs Lac/Nit.
+A diferencia de lo esperado (que en una condición menos favorable predomine  la estrategia “salt in”), en todos los casos la acumulación de Glicina- betaína fue mayor a la de potasio. En el caso del nitrato, ambas variables fueron bajas en comparación al resto, por lo que en esta condición, se podría estar acumulando otro soluto (la energía disponible para la síntesis de estos solutos en el metabolismo con nitrato como aceptor es mayor, por lo que se podrían estar acumulando solutos más complejos). 
+
+
+Oxidación de Lactato:
+Como se dijo previamente, otra de las variables a tener en cuenta para analizar el crecimiento en las diferentes condiciones, es el mecanismo de oxidación de lactato (descripto en la introducción). Para identificar la presencia de uno u otro de los mecanismos en cada uno de los casos, se hicieron mediciones de Lactato y Acetato al inicio del experimento y en fase exponencial. La aparición de acetato en el medio de cultivo, pone de manifiesto un mecanismo de oxidación incompleta (el más favorable energéticamente, como se describió previamente). 
+ 
+Figura 23: Concentraciones iniciales y finales de lactato y acetato en las dos condiciones estudiadas: medio con Lactato como dador de electrones, y Sulfato o Nitrato como dador de electrones.
+Como se ve en la figura 23, en el caso de los cultivos creciendo con Lactato como dador de electrones y Sulfato como aceptor, la concentración inicial de Lactato no varió, de hecho fue mayor la concentración final. Teniendo en cuenta que el lactato fue la única fuente de carbono disponible, y que se obtuvo crecimiento muy bajo (con una DO600nm de aproximadamente 0,2) (Figura 20), se presume que este fue consumido en una concentración muy baja y la mayor concentración detectada en el tiempo final es debido al error dada la poca variabilidad entre ambas mediciones. 
+En cuanto a la concentración de acetato, fue claro que esta varió entre la medición inicial y final, de ser prácticamente indetectable en el inicio, a una concentración de 5mM al final del experimento. Teniendo en cuenta los errores producidos por las bajas concentraciones implicadas, se puede presumir que todo el Lactato  consumido se transformó en acetato, por lo que el metabolismo utilizado en esta condición habría sido el de oxidación incompleta de Lactato.
+En cuanto a la condición más favorable, con Lactato  como dador de electrones y Nitrato como aceptor, se pudo ver que la concentración inicial de Lactato (25mM) disminuyó hasta alrededor de 8mM. Recordando que los cultivos creciendo en Lactato/Nitrato llegaron a una DO600nm de alrededor de 0,8; otra vez, se ve que el dador de electrones estuvo en exceso como en el caso anterior. En este caso, a diferencia del lo ocurrido en los cultivos con Lactato/Sulfato, no hubo diferencia en las concentraciones iniciales y finales de acetato. Esto estaría indicando que la estrategia utilizada en esa condición es la de oxidación completa del lactato. Si bien en esta condición se detectó crecimiento en medio con Acetato como dador de electrones y Nitrato como aceptor, este crecimiento fue mínimo (DO600nm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
